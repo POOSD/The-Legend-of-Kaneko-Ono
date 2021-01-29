@@ -7,13 +7,18 @@ Stage 2: In addition to establishing your repository, you will need to commit yo
     Why are you creating this particular product?
         We intend to include mechanics and gimicks that we realize are missing from similar games in the market.
     Who will benefit from this product?
+        Any individual that enjoys games of the genre will benefit from having a fresh take and a fun time.
     How does the product compare against similar products already on the market?
+        As an indie game of limited scope it compares similarly in many ways but very different in several.
+            A health bar mechanic which encourages the player to balance risk versus reward as a benefit instead of just as a way to punishment risky behavior.
+            A cyberpunk themed story and atmosphere which riffs off of real world events to provide a relatable but driving story and experience.
+            
 
 You should frame this vision statement in terms of an elevator pitch:
 
-    For ... (the product’s target market)
-    Who/That ... (describe what need your product solves)
-    The product ... (product name,or product category)
-    That leads to ... (main advantage, appealing reason for purchase)
-    Unlike the ... (principal competing alternatives)
+    For players of side scrolling shooters
+    That want a fresh take on their beloved genre
+    The product <Principles of Object Oriented Software Development Group Five Project Game>
+    That leads to changing the way that players understand the genre of side scrolling shooter's
+    Unlike games such as R-Type, Gradius, 
     Our product offers ... (describe main differentiation)
