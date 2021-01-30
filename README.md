@@ -1,88 +1,176 @@
-# Project Title
+# The Legend of Kaneko Ono (カネコ オノ)
 
-One Paragraph of project description goes here
+# Product Vision
 
-## Getting Started
+"Our project entitled, “The Legend of Kaneko Ono (カネコ オノ)" is a game built for players of side scrolling shooter games who want a fresh take on their beloved genre with new mechanics. This leads to changing the way that players understand the genre of side scrolling shooters in that it can be more interactive than just avoiding the enemies and scoring points.  As fans of the genre we decided to build a game that incorporates mechanics and gimmicks that aren’t in other games currently on the market. Unlike games such as R-Type, Gradius, or Darius, our product offers a fresh and modern experience by encouraging more risk-reward strategic thinking than typical side-scrolling shooters, and adds unique complexities via “hacking” mechanics that still complement traditional side-scrolling mechanics."
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Team Members
 
-What things you need to install the software and how to install them
+- Jake DiClemente
+- Megan Diehl
+- Shir Nava
+- Thomas Smith
+- Daniel Trimble
 
-```
-Give examples
-```
 
-### Installing
+# Sprint 1
 
-A step by step series of examples that tell you how to get a development env running
+Each item should link to the actual product, be it a google spreadsheet, google doc, github markdown file, etc. Do not link to a markdown file that contains only a link to another location - link directly from the appropriate item below. Failure to adhere to this criteria wil result in the associated artifact not being graded. Add any additional items required for the specific sprint submission.
 
-Say what the step will be
+- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
+- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint1_backlog.md)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- System Architecture
+- Source Code
+- Automated Tests
+- Product Demonstration
 
-```
-Give the example
-```
+## Task Allocation
 
-And repeat
+Member 1 - main tasking
 
-```
-until finished
-```
+Member 2 - main tasking
 
-End with an example of getting some data out of the system or using it for a little demo
+In this section, each group member needs to provide a brief description of what they worked on during the sprint. Keep this short and to the point. Your trello board and commit history will provide the details. 
 
-## Running the tests
+**note**: For this first sprint, I am anticipating that you will have selected one or two user stories for the Sprint Backlog, and most likely not have completed them since the majority if this week will consist of getting your product backlog, requirements, and development environment fleshed out and stood up. The only implementation I am expecting to see is that your development environment is properly configured to where it can at least run a basic "hello world" type application. 
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+# Sprint 2
 
-Explain what these tests test and why
+- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
+- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint2_backlog.md)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Trello Board](https://trello.com/)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- Source Code
+- Automated Tests
+- Product Demonstration
 
-```
-Give an example
-```
+## Task Allocation
 
-### And coding style tests
+Member 1 - main tasking
 
-Explain what these tests test and why
+Member 2 - main tasking
 
-```
-Give an example
-```
+**note**: For this sprint, I am anticipating that you will continue to work on the stories carried over from Sprint 1, with a focus on the design aspect of your system. I am expecting your architecture document and diagrams to reflect the system only in the context of these user stories, with some generalization to help plan for the other items currently in the backlog. I am not expecting a significant amount of implementation at this point, if any at all.
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
+# Sprint 3
 
-## Built With
+- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
+- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint3_backlog.md)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Trello Board](https://trello.com/)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Product Demonstration](https://www.youtube.com)
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Task Allocation
 
-## Contributing
+Member 1 - main tasking
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Member 2 - main tasking
 
-## Versioning
+**note**: At this point I am expecting that you have designed out a few of the initial user stories and started to implement this. From this point forward there should be continuous integration and deployment, producing working software that is demoed at the end of each sprint.
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+# Sprint 4
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- [Trello Board](https://trello.com/)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Product Demonstration](https://www.youtube.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Task Allocation
 
-## License
+Member 1 - main tasking
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Member 2 - main tasking
 
-## Acknowledgments
+**note**: Sprint 4 and onward will contain updates to your artifacts as appropriate for the current sprint, as well as continuous improvements to your software and updated product demos.
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
+# Sprint 5
+
+- [Trello Board](https://trello.com/)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Product Demonstration](https://www.youtube.com)
+
+## Task Allocation
+
+Member 1 - main tasking
+
+Member 2 - main tasking
+
+
+# Sprint 6
+
+- [Trello Board](https://trello.com/)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Product Demonstration](https://www.youtube.com)
+
+## Task Allocation
+
+Member 1 - main tasking
+
+Member 2 - main tasking
+
+
+# Sprint 7
+
+- [Trello Board](https://trello.com/)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Product Demonstration](https://www.youtube.com)
+
+## Task Allocation
+
+Member 1 - main tasking
+
+Member 2 - main tasking
+
+
+# Sprint 8
+
+- [Trello Board](https://trello.com/)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
+- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
+- [Product Demonstration](https://www.youtube.com)
+
+## Task Allocation
+
+Member 1 - main tasking
+
+Member 2 - main tasking
