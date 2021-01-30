@@ -16,10 +16,10 @@ Stage 2: In addition to establishing your repository, you will need to commit yo
 
 You should frame this vision statement in terms of an elevator pitch:
 
-    For players of side scrolling shooters
-    That want a fresh take on their beloved genre
-    The product <Principles of Object Oriented Software Development Group Five Project Game>
-    That leads to changing the way that players understand the genre of side scrolling shooter's
-    Unlike games such as R-Type, Gradius, or Darius
-    Our product offers a fresh and modern experience that challenges expectations and rewards it's audience with a novel take on the genre
+    Our project entitled, “The Legend of Kaneko Ono (カネコ オノ)" is built for players of side scrolling shooter games
+    who want a fresh take on their beloved genre with new mechanics. This leads to changing the way that players
+    understand the genre of side scrolling shooters in that it can be more interactive than just avoiding the enemies
+    and scoring points. Unlike games such as R-Type, Gradius, or Darius, our product offers a fresh and modern
+    experience by encouraging more risk-reward strategic thinking than typical side-scrolling shooters, and adds
+    unique complexities via “hacking” mechanics that still complement traditional side-scrolling mechanics.
     
