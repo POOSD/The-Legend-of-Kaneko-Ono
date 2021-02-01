@@ -7,11 +7,11 @@
 
 ## Team Members
 
-- Jake DiClemente
-- Megan Diehl
-- Shir Nava
-- Thomas Smith
-- Daniel Trimble
+- Jake DiClemente - jakedco
+- Megan Diehl - md1789
+- Shir Nava - shirnava
+- Thomas Smith - KelvinCrank22
+- Daniel Trimble - Daniel-Trimble
 
 
 # Sprint 1
