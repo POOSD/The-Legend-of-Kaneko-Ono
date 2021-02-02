@@ -18,12 +18,12 @@
 
 Each item should link to the actual product, be it a google spreadsheet, google doc, github markdown file, etc. Do not link to a markdown file that contains only a link to another location - link directly from the appropriate item below. Failure to adhere to this criteria wil result in the associated artifact not being graded. Add any additional items required for the specific sprint submission.
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint1_backlog.md)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
+- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product_backlog.md)
+- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
 - System Architecture
 - Source Code
 - Automated Tests
@@ -42,13 +42,13 @@ In this section, each group member needs to provide a brief description of what 
 
 # Sprint 2
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint2_backlog.md)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Trello Board](https://trello.com/)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
+- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product_backlog.md)
+- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - Source Code
 - Automated Tests
 - Product Demonstration
@@ -64,16 +64,16 @@ Member 2 - main tasking
 
 # Sprint 3
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint3_backlog.md)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Trello Board](https://trello.com/)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Product Demonstration](https://www.youtube.com)
+- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product_backlog.md)
+- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
@@ -86,14 +86,14 @@ Member 2 - main tasking
 
 # Sprint 4
 
-- [Trello Board](https://trello.com/)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Product Demonstration](https://www.youtube.com)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
@@ -106,14 +106,14 @@ Member 2 - main tasking
 
 # Sprint 5
 
-- [Trello Board](https://trello.com/)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Product Demonstration](https://www.youtube.com)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
@@ -124,14 +124,14 @@ Member 2 - main tasking
 
 # Sprint 6
 
-- [Trello Board](https://trello.com/)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Product Demonstration](https://www.youtube.com)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
@@ -142,14 +142,14 @@ Member 2 - main tasking
 
 # Sprint 7
 
-- [Trello Board](https://trello.com/)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Product Demonstration](https://www.youtube.com)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
@@ -160,14 +160,14 @@ Member 2 - main tasking
 
 # Sprint 8
 
-- [Trello Board](https://trello.com/)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
-- [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-- [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
-- [Product Demonstration](https://www.youtube.com)
+- [Trello Board](https://trello.com/b/cVjYcmDD/project)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
