@@ -22,8 +22,8 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 - [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - System Architecture
 - Source Code
 - Automated Tests
@@ -46,8 +46,8 @@ In this section, each group member needs to provide a brief description of what 
 - [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - Source Code
 - Automated Tests
@@ -68,8 +68,8 @@ Member 2 - main tasking
 - [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
@@ -88,8 +88,8 @@ Member 2 - main tasking
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
@@ -108,8 +108,8 @@ Member 2 - main tasking
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
@@ -126,8 +126,8 @@ Member 2 - main tasking
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
@@ -144,8 +144,8 @@ Member 2 - main tasking
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
@@ -162,8 +162,8 @@ Member 2 - main tasking
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
-- [Burndown Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
-- [Velocity Chart](https://docs.google.com/spreadsheets/d/1W2HoqYf3PX299P29X1p4W8A1HCuzSPjT_UaPnq_7Uog/edit?usp=sharing)
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
