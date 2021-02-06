@@ -1,1 +1,10 @@
 Product Backlog
+
+[INFO] All user stories that have not yet been planned should be listed here, one card per story.
+
+User Story [000]: <story>
+User Story [001]: Controlling the Ship
+User Story [002]: Establishing coding environment
+User Story [003]: Visual Assets
+User Story [004]: Shared Repository
+User Story [005]: Side Scrolling Environment
