@@ -1,1 +1,16 @@
-something something
+What will the product do?
+  It is a game, so the product will entertain an individual.
+        
+Why are you creating this particular product?
+  As fans of the genre we decided to build a game that incorporates mechanics and gimmicks that
+  aren’t in other games currently on the market.
+        
+Who will benefit from this product?
+  Anyone who enjoys shoot-em-up sidescrollers will benefit from having a fresh take and a fun time.
+        
+How does the product compare against similar products already on the market?
+  The game will have a health bar mechanic which encourages the player to balance risk versus reward
+  as a benefit instead of just as a way to punish risky behavior.  The player will have to avoid
+  damage to health or replenish health if drained. The game also provides a cyberpunk themed story
+  and atmosphere, which riffs off of real world events to provide a relatable but driving story and
+  experience.
