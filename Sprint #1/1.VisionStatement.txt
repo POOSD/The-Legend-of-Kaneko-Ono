@@ -14,3 +14,14 @@ How does the product compare against similar products already on the market?
   damage to health or replenish health if drained. The game also provides a cyberpunk themed story
   and atmosphere, which riffs off of real world events to provide a relatable but driving story and
   experience.
+
+Elevator Pitch:
+    Our project entitled, “The Legend of Kaneko Ono (カネコ オノ)" is a game built for players of
+    side scrolling shooter games who want a fresh take on their beloved genre with new mechanics.
+    This leads to changing the way that players understand the genre of side scrolling shooters in
+    that it can be more interactive than just avoiding the enemies and scoring points.  As fans of
+    the genre we decided to build a game that incorporates mechanics and gimmicks that aren’t in other
+    games currently on the market. Unlike games such as R-Type, Gradius, or Darius, our product offers
+    a fresh and modern experience by encouraging more risk-reward strategic thinking than typical
+    side-scrolling shooters, and adds unique complexities via “hacking” mechanics that still complement
+    traditional side-scrolling mechanics.
