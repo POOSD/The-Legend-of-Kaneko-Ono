@@ -1,1 +1,9 @@
 Sprint Backlog
+
+[INFO] All user stories selected for the current sprint should be listed here, one card per story. Each card should also include a description that contains the estimated effort, priority, validation criteria, and the developer who has taken responsibility for the task.
+
+User Story [001]: Controlling the Ship
+User Story [002]: Establishing coding environment
+User Story [003]: Visual Assets
+User Story [004]: Shared Repository
+User Story [005]: Side Scrolling Environment
