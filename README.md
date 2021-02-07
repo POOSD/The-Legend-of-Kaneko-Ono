@@ -31,15 +31,15 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 
 ## Task Allocation
 
-Shir Nava - Burndown Chart, Velocity Chart, participated in user story creation, Updated the product_backlog.md and requirements.md, assisted in the vision statement creation, ssisted in organization of product and sprint backlog on Trello, created GitHub Repository, created lore and story
+Shir Nava - Burndown Chart, Velocity Chart, participated in user story creation, Updated the product_backlog.md and requirements.md, assisted in the vision statement creation, ssisted in organization of product and sprint backlog on Trello, created GitHub Repository, created lore and story, completed User Story 004, 006, 000, 003, 005
 
-Megan Diehl - Burndown Chart, Velocity Chart, participated in user story creation, assisted in the vision statement creation, created Trello Board, assisted in organization of product and sprint backlog on Trello, created game concept pitch
+Megan Diehl - Burndown Chart, Velocity Chart, participated in user story creation, assisted in the vision statement creation, created Trello Board, assisted in organization of product and sprint backlog on Trello, created game concept pitch, completed User Story 007, 000, 003, 005
 
-Daniel Trimble - Burndown Chart, Velocity Chart, set up Google account for team, updated links on the README.md, updated the trello to match specification, created template files for user stories, organized trello, assisted in the vision statement creation
+Daniel Trimble - Burndown Chart, Velocity Chart, set up Google account for team, updated links on the README.md, updated the trello to match specification, created template files for user stories, organized trello, assisted in the vision statement creation, completed User Story 000, 003, 005
 
-Jake DiClemente- assisted in the vision statement creation, participated in user story creation, created visual assets
+Jake DiClemente- assisted in the vision statement creation, participated in user story creation, created visual assets, completed User Story 000, 003, 005, 007
 
-Thomas Smith - wrote the requirements, participated in user story creation, assisted in the vision statement creation
+Thomas Smith - wrote the requirements, participated in user story creation, assisted in the vision statement creation, completed User Story 000, 003, 005
 
 
 # Sprint 2
