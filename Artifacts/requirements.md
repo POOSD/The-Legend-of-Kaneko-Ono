@@ -4,10 +4,8 @@ The priority of each requirement should be either Necessary, Important, or Desir
 
 | Requirement ID | User Story ID | Requirement | Acceptance Criteria | Effort | Priority | Status |
 |----------------|---------------|-------------|---------------------|--------|----------|--------|
-|            000 |           001 | Each entry in the product backlog shall have a unique ID             | Each entry in the backlog has a unique ID | 1 | Necessary | Verified |
-|            001 |           001 | Each entry in the product backlog shall have a textual description   | Each entry in the backlog has a textual description | 1 | Necessary | Verified |
-|            002 |           001 | Each entry in the product backlog shall have a priority | Each entry in the backlog has a priority | 1 | Necessary | Verified |
-|            003 |           001 | Each entry in the product backlog shall have an estimation of effort | Each entry in the backlog has an estimation of effort | 1 | Necessary | Verified |
-|            004 |           001 | Each entry in the product backlog shall have a validation criteria   | Each entry in the backlog has a validation criteria of the form Given/When/Then | 1 | Necessary | Verified |
-|            005 |           001 | Each entry in the product backlog shall have a status that can be one of PLANNED, WORKING, or DONE | Each entry in the backlog has a status | 1 | Necessary | Verified |
-|            005 |           001 | The product backlog shall be displayed as a table with one entry per row | The product backlog is visualized as a table with one entry per row | 1 | Necessary | Verified |
+|            000 |           001 | The player must be able to launch the game without crashes             | When a user can successfully reach the game's menu by opening the application, then experience gameplay by clicking the "play" button | 1 | Necessary | Unverified |
+|            001 |           001 | The player can control their ship   | When the ship can be moved via directional buttons or otherwise, and can fire bullets via other means | 1 | Necessary | Unverified |
+|            002 |           001 | The game must be run in the Unity engine | When the code intended for the game compiles and runs in the Unity engine | 1 | Necessary | Verified |
+|            003 |           001 | The playable game scene must always move from one side of the screen to the opposing side | When upon beginning to play the game, the scene scrolls leftward, and does not stop scrolling leftward unless the gameplay is somehow interrupted or concluded | 1 | Necessary | Unverified |
+|            004 |           001 | The playable game scene must always move sideways   | When enemies are apparent during gameplay; i.e., entities that are clearly antagonistic to the player, and are destroyable via bullets | 1 | Necessary | Unverified |
