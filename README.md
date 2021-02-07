@@ -31,13 +31,15 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 
 ## Task Allocation
 
-Member 1 - main tasking
+Shir Nava - Burndown Chart, Velocity Chart, participated in user story creation, Updated the product_backlog.md and requirements.md, assisted in the vision statement creation, ssisted in organization of product and sprint backlog on Trello
 
-Member 2 - main tasking
+Megan Diehl - Burndown Chart, Velocity Chart, participated in user story creation, assisted in the vision statement creation, created Trello Board, assisted in organization of product and sprint backlog on Trello
 
-In this section, each group member needs to provide a brief description of what they worked on during the sprint. Keep this short and to the point. Your trello board and commit history will provide the details. 
+Daniel Trimble - Burndown Chart, Velocity Chart, set up Google account for team, updated links on the README.md, updated the trello to match specification, created template files for user stories, organized trello, assisted in the vision statement creation
 
-**note**: For this first sprint, I am anticipating that you will have selected one or two user stories for the Sprint Backlog, and most likely not have completed them since the majority if this week will consist of getting your product backlog, requirements, and development environment fleshed out and stood up. The only implementation I am expecting to see is that your development environment is properly configured to where it can at least run a basic "hello world" type application. 
+Jake DiClemente- assisted in the vision statement creation, participated in user story creation, created visual assets
+
+Thomas Smith - wrote the requirements, participated in user story creation, assisted in the vision statement creation
 
 
 # Sprint 2
