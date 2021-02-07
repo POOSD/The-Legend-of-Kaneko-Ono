@@ -1,7 +1,6 @@
 | ID | User Story | Effort | Priority | Validation Criteria | Status |
 |----|------------|--------|----------|---------------------|--------|
-| 000 | ~As a player, I want the game to have a good concept for me to enjoy playing it.~ | 1 | Must-Have | Game Concept is decided on and is well-established in writing.
- | DONE |
+| 000 | ~As a player, I want the game to have a good concept for me to enjoy playing it.~ | 1 | Must-Have | Game Concept is decided on and is well-established in writing. | DONE |
 | 001 | As a developer, I want to be able to use git commands to update the project Github repository. | 1 | Must-Have | Being able to commit to the repo using git. | WORKING |
 | 002 |As a developer, I want to be able to work in a well defined environment, so that our team can minimize inconsistency during development. | 1 | Must-Have | Being able to open and edit code in a LiveShare compatible editor. | WORKING |
 | 003 | As a developer, I want to use the Unity game engine, because of the extensibility, portability, and support that this engine provides. | 1 | Must-Have | Being able to open, test, and validate code within the Unity game engine. | WORKING |
