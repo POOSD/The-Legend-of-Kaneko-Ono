@@ -33,7 +33,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 
 Shir Nava - Burndown Chart, Velocity Chart, participated in user story creation, Updated the product_backlog.md and requirements.md, assisted in the vision statement creation, ssisted in organization of product and sprint backlog on Trello, created GitHub Repository, created lore and story
 
-Megan Diehl - Burndown Chart, Velocity Chart, participated in user story creation, assisted in the vision statement creation, created Trello Board, assisted in organization of product and sprint backlog on Trello
+Megan Diehl - Burndown Chart, Velocity Chart, participated in user story creation, assisted in the vision statement creation, created Trello Board, assisted in organization of product and sprint backlog on Trello, created game concept pitch
 
 Daniel Trimble - Burndown Chart, Velocity Chart, set up Google account for team, updated links on the README.md, updated the trello to match specification, created template files for user stories, organized trello, assisted in the vision statement creation
 
