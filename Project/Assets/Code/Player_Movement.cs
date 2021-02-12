@@ -23,7 +23,7 @@ public class Player_Movement : MonoBehaviour
     {
         // Sets the amount of drift after movement key is released.
         // 0.85 is a magic number but "felt" good.
-        driftVelocity = 0.85f
+        driftVelocity = 0.85f;
     }
 
     // Update is called once per frame
