@@ -44,9 +44,9 @@ Thomas Smith - wrote the requirements, participated in user story creation, assi
 
 # Sprint 2
 
-- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
+- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product2_backlog.md)
+- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint2_backlog.md)
+- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements2.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/1Z8AVN_959V3vDXK0tHYFEYobaCr6I5VNT-lzLPV35Co/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1R5i7Oyn5eakFNMSpwH5GI02uIMCSS-GdlfjxS_bZb4E/edit?usp=sharing)
