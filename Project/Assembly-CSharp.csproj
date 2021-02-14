@@ -42,6 +42,7 @@
      <Compile Include="Assets\Code\Enemy_Movement.cs" />
      <Compile Include="Assets\Code\Player_Movement.cs" />
      <Compile Include="Assets\Code\Enemy_Spawn.cs" />
+     <Compile Include="Assets\Code\Environmental_Variables_Container.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/variablename/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
