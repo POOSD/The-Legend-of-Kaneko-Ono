@@ -47,8 +47,7 @@ See Code Complete, Chapter 3
 See Code Complete, Chapter 3
 
 # Interoperability
-
-See Code Complete, Chapter 3
+The System is not expected to share data or resources with other software or hardware.
 
 # Internationalization/Localization
 
