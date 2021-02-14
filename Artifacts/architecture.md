@@ -6,11 +6,21 @@ You should have your context, container, and component (c4model.com) diagrams in
 
 See Code Complete, Chapter 3 and https://c4model.com/
 
+Context Diagram:
+![UML Diagram - System_Context_Diagram](https://user-images.githubusercontent.com/47250709/107869455-3d559e80-6e5c-11eb-85dd-c8a0899b2417.png)
+
+Container Diagram:
+![UML Diagram - Container_Diagram](https://user-images.githubusercontent.com/47250709/107869458-50686e80-6e5c-11eb-8d77-fa1bd3005b58.png)
+
+
 # Code Design
 
 You should have your UML Class diagram and any other useful UML diagrams in this section. Each diagram should be accompanied by a brief description explaining what the elements are and why they are in the diagram. For your class diagram, you must also include a table that relates each class to one or more user stories. 
 
 See Code Complete, Chapter 3 and https://c4model.com/
+UML Class Diagram:
+![UML Diagram - UML_Class_Diagram_Example (1)](https://user-images.githubusercontent.com/47250709/107869440-126b4a80-6e5c-11eb-8e3c-3dfd453481f1.png)
+
 
 # Data Design
 
@@ -30,6 +40,10 @@ You should have one or more user interface screens in this section. Each screen 
 
 See Code Complete, Chapter 3
 
+UML UI Diagram:
+![UML Diagram - UI_Diagram](https://user-images.githubusercontent.com/47250709/107869358-4bef8600-6e5b-11eb-9d48-73637756db31.png)
+
+
 # Resource Management
 
 See Code Complete, Chapter 3
@@ -47,7 +61,7 @@ See Code Complete, Chapter 3
 See Code Complete, Chapter 3
 
 # Interoperability
-The System is not expected to share data or resources with other software or hardware.
+The system is not expected to share data or resources with other software or hardware.
 
 # Internationalization/Localization
 
