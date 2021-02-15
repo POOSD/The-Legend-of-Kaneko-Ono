@@ -53,7 +53,7 @@ Thomas Smith - wrote the requirements, participated in user story creation, assi
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - Source Code
 - Automated Tests
-- Product Demonstration
+- [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
 
