@@ -57,9 +57,15 @@ Thomas Smith - wrote the requirements, participated in user story creation, assi
 
 ## Task Allocation
 
-Member 1 - main tasking
+Shir Nava - Helped with UML Diagrams, Updated Product Backlog md file and architecture md file, helped update trello board, Burndown chart and Velocity chart
 
-Member 2 - main tasking
+Megan Diehl - Coordinated team on what's due by deadline, worked on UML diagrams
+
+Daniel Trimble - Touched up demo assets, built the demo level, wrote tested and validated the player movement script, built system overview and container architectural diagrams, uploaded completed and validated demo video on YouTube channel, did miscellaneous github work, and revised/updated/organized Trello.
+
+Jake DiClemente - Completed UI diagrams, aided with UML diagrams
+
+Thomas Smith - Updated/revised the Trello user stories to be more player-focused, and updated both backlogs and mostly redone the requirements on GitHub
 
 **note**: For this sprint, I am anticipating that you will continue to work on the stories carried over from Sprint 1, with a focus on the design aspect of your system. I am expecting your architecture document and diagrams to reflect the system only in the context of these user stories, with some generalization to help plan for the other items currently in the backlog. I am not expecting a significant amount of implementation at this point, if any at all.
 
