@@ -59,13 +59,13 @@ Thomas Smith - wrote the requirements, participated in user story creation, assi
 
 Shir Nava - Helped with UML Diagrams, Updated Product Backlog md file and architecture md file, helped update trello board, Burndown chart and Velocity chart
 
-Megan Diehl - Coordinated team on what's due by deadline, worked on UML diagrams
+Megan Diehl - Coordinated team on what's due by deadline, worked on UML diagrams, created user stories 010 and 012, and made the background visual asset.
 
-Daniel Trimble - Touched up demo assets, built the demo level, wrote tested and validated the player movement script, built system overview and container architectural diagrams, uploaded completed and validated demo video on YouTube channel, did miscellaneous github work, and revised/updated/organized Trello.
+Daniel Trimble - Touched up demo assets, built the demo level, wrote tested and validated the player movement script, built system overview and container architectural diagrams, uploaded completed and validated demo video on YouTube channel, did miscellaneous github work, revised/updated/organized Trello, and created user story 009.
 
-Jake DiClemente - Completed UI diagrams, aided with UML diagrams
+Jake DiClemente - Completed UI diagrams, aided with UML diagrams.
 
-Thomas Smith - Updated/revised the Trello user stories to be more player-focused, and updated both backlogs and mostly redone the requirements on GitHub
+Thomas Smith - Updated/revised the Trello user stories to be more player-focused, and updated both backlogs and mostly redone the requirements on GitHub.
 
 **note**: For this sprint, I am anticipating that you will continue to work on the stories carried over from Sprint 1, with a focus on the design aspect of your system. I am expecting your architecture document and diagrams to reflect the system only in the context of these user stories, with some generalization to help plan for the other items currently in the backlog. I am not expecting a significant amount of implementation at this point, if any at all.
 
