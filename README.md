@@ -59,7 +59,7 @@ Thomas Smith - wrote the requirements, participated in user story creation, assi
 
 Shir Nava - Helped with UML Diagrams, Updated Product Backlog md file and architecture md file, helped update trello board, Burndown chart and Velocity chart
 
-Megan Diehl - Coordinated team on what's due by deadline, worked on UML diagrams, created user stories 010 and 012, and made the background visual asset.
+Megan Diehl - Coordinated team on what's due by deadline, worked on UML diagrams, created user stories 010, 011, and 012, and made the background visual asset.
 
 Daniel Trimble - Touched up demo assets, built the demo level, wrote tested and validated the player movement script, built system overview and container architectural diagrams, uploaded completed and validated demo video on YouTube channel, did miscellaneous github work, revised/updated/organized Trello, and created user story 009.
 
