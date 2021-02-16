@@ -41,7 +41,7 @@ We're also sticking to principles like SOLID and DRY, of course.
 You should have one or more user interface screens in this section. Each screen should be accompanied by an explaination of the screens purpose and how the user will interact with it. You should relate each screen to one another as the user transitions through the states of your application. You should also have a table that relates each window or component to the support using stories.
 
 UML UI Diagram:
-![UML Diagram - UI_Diagram (1)](https://user-images.githubusercontent.com/47250709/108116700-fa691600-7069-11eb-8dd5-3070d2634517.png)
+![UML Diagram - UI_Diagram (2)](https://user-images.githubusercontent.com/47250709/108124146-d8c15c00-7074-11eb-8c77-4c252f48edd7.png)
 
 
 # Resource Management
