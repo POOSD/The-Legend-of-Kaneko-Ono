@@ -1,5 +1,3 @@
-Populate each section with information as it applies to your project. If a section does not apply, explain why. Include diagrams (or links to diagrams) in each section, as appropriate.  For example, sketches of the user interfaces along with an explanation of how the interface components will work; ERD diagrams of the database; rough class diagrams; context diagrams showing the system boundary; etc. Do _not_ link to your diagrams, embed them directly in this document by uploading the images to your GitHub and linking to them. Do _not_ leave any section blank.
-
 # Program Organization
 
 You should have your context, container, and component (c4model.com) diagrams in this section, along with a description and explanation of each diagram and a table that relates each block to one or more user stories.
@@ -13,6 +11,8 @@ Container Diagram:
 ![UML Diagram - Container_Diagram](https://user-images.githubusercontent.com/47250709/107869458-50686e80-6e5c-11eb-8d77-fa1bd3005b58.png)
 
 This is a more expanded view of how the game itself is working at runtime, including the use of the Unity engine and the UI we'll be using.
+
+Component Diagram:
 
 
 # Code Design
@@ -29,13 +29,9 @@ We're not *exactly* sure how the allies and more basic enemies will move and int
 
 # Data Design
 
-If you are using a database, you should have a basic Entity Relationship Diagram (ERD) in this section. This diagram should describe the tables in your database and their relationship to one another (especially primary/foreign keys), including the columns within each table.
-
-In this case, we're not, as you can see in the context diagram.
+We are not using a database, as you can see in the context diagram.
 
 # Business Rules
-
-You should list the assumptions, rules, and guidelines from external sources that are impacting your program design.
 
 As an outright requirement, we'll be working to make all visual components visually distinct from each other, giving allies and enemies separate design schemes, and keep the background and foreground separate from the environment the player actually interacts with, for the sake of visual clarity.
 We're also sticking to principles like SOLID and DRY, of course.
@@ -43,8 +39,6 @@ We're also sticking to principles like SOLID and DRY, of course.
 # User Interface Design
 
 You should have one or more user interface screens in this section. Each screen should be accompanied by an explaination of the screens purpose and how the user will interact with it. You should relate each screen to one another as the user transitions through the states of your application. You should also have a table that relates each window or component to the support using stories.
-
-See Code Complete, Chapter 3
 
 UML UI Diagram:
 ![UML Diagram - UI_Diagram](https://user-images.githubusercontent.com/47250709/107869358-4bef8600-6e5b-11eb-9d48-73637756db31.png)
