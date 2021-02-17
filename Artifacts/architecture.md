@@ -1,7 +1,5 @@
 # Program Organization
 
-You should have your component (c4model.com) diagram in this section, along with a description and explanation of the diagram and a table that relates each block to one or more user stories.
-
 Context Diagram:
 ![UML Diagram - System_Context_Diagram](https://user-images.githubusercontent.com/47250709/107869455-3d559e80-6e5c-11eb-85dd-c8a0899b2417.png)
 
