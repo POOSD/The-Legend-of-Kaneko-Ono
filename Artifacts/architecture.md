@@ -1,30 +1,68 @@
 # Program Organization
 
-You should have your context, container, and component (c4model.com) diagrams in this section, along with a description and explanation of each diagram and a table that relates each block to one or more user stories.
+You should have your component (c4model.com) diagram in this section, along with a description and explanation of the diagram and a table that relates each block to one or more user stories.
 
 Context Diagram:
 ![UML Diagram - System_Context_Diagram](https://user-images.githubusercontent.com/47250709/107869455-3d559e80-6e5c-11eb-85dd-c8a0899b2417.png)
 
-This game is just intended to be a singleplayer experience, so there's not a lot of complexity required on this level; just the player interacting with the game, while it's running on a computer.
+| Block Name   | User Story |
+|--------------|------------|
+| Player       |     011    |
+| Unity Game   |     003    |
+| Host Machine |     011    |
+
+As a single-player video game, the game only has one user per running process; a player, who'll either be altering configurations of the software via the UI, or just playing the game via the controls.
+
+The game itself will be running on the Unity engine, and won't rely on multi-threading. It'll be a single instance of the game running on the user's machine.
 
 Container Diagram:
 ![UML Diagram - Container_Diagram](https://user-images.githubusercontent.com/47250709/107869458-50686e80-6e5c-11eb-8d77-fa1bd3005b58.png)
 
+
+| Block Name   | User Story |
+|--------------|------------|
+| Player       |     011    |
+| UI Window    |     009    |
+| Unity Engine |     003    |
+| Game Code    |     011    |
+| Host Machine |     011    |
+
 This is a more expanded view of how the game itself is working at runtime, including the use of the Unity engine and the UI we'll be using.
+
+The UI will include the play button, settings menu, and the more typical playable environment; it's all run via the Unity engine processing the code base.
+
+The directory storing settings and save data will likely be handled by the Unity engine itself.
 
 Component Diagram:
 
 
 # Code Design
 
-You should have your UML Class diagram and any other useful UML diagrams in this section. Each diagram should be accompanied by a brief description explaining what the elements are and why they are in the diagram. For your class diagram, you must also include a table that relates each class to one or more user stories.
-
 UML Class Diagram:
 ![UML Diagram - UML_Class_Diagram_Example (1)](https://user-images.githubusercontent.com/47250709/107869440-126b4a80-6e5c-11eb-8e3c-3dfd453481f1.png)
+
+
+| Class Name  | User Story |
+|-------------|------------|
+| Ship        |     005    |
+| Drone       |     000    |
+| NPC         |     002    |
+| Ally        |     002    |
+| Enemy       |     002    |
+| Player      |     011    |
+| Character   |     009    |
 
 As this is a bullet hell game with a cyberpunk theme, most of the moving parts of this game are ships, with the exception of drones with more specified purposes.
 
 We're not *exactly* sure how the allies and more basic enemies will move and interact with each other and the enemy, so they're less fleshed out for now; hence, the Character is the most developed because they're crucial to development, and are essentially a "must-have".
+
+In the meantime, the "Ship" class is meant to encompass nearly all the currently planned entities we'll have ingame, because it's a game centered around space-ships. We'll soon most-likely also have a "Bullet" class that'll be producible by the fire() function within the Ship class.
+
+The Drone class is an alternative entity, less focused around being a typical ship and more around being a technological aide to whichever side it's aligned for.
+
+The Ally/Enemy classes simply represent the different sides of the conflict, excluding the player themselves, which is why they're under NPC.
+
+The "Character" class, of course, represents the playable character.
 
 ![UML Diagram - UML Activity Diagram](https://user-images.githubusercontent.com/47250709/108159431-075f2700-70b5-11eb-921e-40bf010fbfd4.png)
 This is an activity diagram explaining the flow of activities during gameplay. As the player goes through the game, they are met with enemies they must defeat, as well as hacking "zones" they must avoid. If their health reaches 0, they die, but if they reach an ally drone they can partially heal them, allowing them to continue on in the game. To win the game, you must defeat the enemies and reach the island where the resistance headquarters are.
