@@ -27,7 +27,7 @@ Container Diagram:
 
 This is a more expanded view of how the game itself is working at runtime, including the use of the Unity engine and the UI we'll be using.
 
-The UI will include the play button, settings menu, and the more typical playable environment; it's all run via the Unity engine processing the code base.
+The UI will include the Opening Screen, Sound Settings Screen, Gameplay Screen, Player Won Screen and Player Lost Screen; it's all run via the Unity engine processing the code base.
 
 The directory storing settings and save data will likely be handled by the Unity engine itself.
 
@@ -93,7 +93,6 @@ UML UI Diagram:
 | Gameplay Screen | 010 |
 | Player Won Screen | 014 |
 | Player Lost Screen | 014 |
-
 
 
 # Resource Management
