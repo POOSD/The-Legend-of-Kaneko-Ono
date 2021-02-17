@@ -44,13 +44,11 @@ UML Class Diagram:
 
 | Class Name  | User Story |
 |-------------|------------|
-| Ship        |     005    |
+| Ship        |     000    |
 | Drone       |     000    |
 | NPC         |     002    |
-| Ally        |     002    |
-| Enemy       |     002    |
 | Player      |     011    |
-| Character   |     009    |
+| Character   |     005    |
 
 As this is a bullet hell game with a cyberpunk theme, most of the moving parts of this game are ships, with the exception of drones with more specified purposes.
 
