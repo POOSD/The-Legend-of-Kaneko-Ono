@@ -26,6 +26,9 @@ As this is a bullet hell game with a cyberpunk theme, most of the moving parts o
 
 We're not *exactly* sure how the allies and more basic enemies will move and interact with each other and the enemy, so they're less fleshed out for now; hence, the Character is the most developed because they're crucial to development, and are essentially a "must-have".
 
+![UML Diagram - UML Activity Diagram](https://user-images.githubusercontent.com/47250709/108159431-075f2700-70b5-11eb-921e-40bf010fbfd4.png)
+This is an activity diagram explaining the flow of activities during gameplay. As the player goes through the game, they are met with enemies they must defeat, as well as hacking "zones" they must avoid. If their health reaches 0, they die, but if they reach an ally drone they can partially heal them, allowing them to continue on in the game. To win the game, you must defeat the enemies and reach the island where the resistance headquarters are.
+
 
 # Data Design
 
