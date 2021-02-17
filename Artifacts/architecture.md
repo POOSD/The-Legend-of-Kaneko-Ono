@@ -39,7 +39,7 @@ Component Diagram:
 # Code Design
 
 UML Class Diagram:
-![UML Diagram - UML_Class_Diagram_Example (1)](https://user-images.githubusercontent.com/47250709/107869440-126b4a80-6e5c-11eb-8e3c-3dfd453481f1.png)
+![UML Diagram - UML_Class_Diagram_Example (2)](https://user-images.githubusercontent.com/47250709/108236987-78362b80-7115-11eb-878d-1dbe76d31357.png)
 
 
 | Class Name  | User Story |
