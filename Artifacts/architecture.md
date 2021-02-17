@@ -32,6 +32,14 @@ The UI will include the play button, settings menu, and the more typical playabl
 The directory storing settings and save data will likely be handled by the Unity engine itself.
 
 Component Diagram:
+![UML Diagram - Component_Diagram](<link_to_component_diagram>)
+
+
+| Block Name   | User Story |
+|--------------|------------|
+| xxx          |     xxx    |
+
+<Insert a description of the Component Diagram and Table here>
 
 
 # Code Design
