@@ -43,6 +43,15 @@ You should have one or more user interface screens in this section. Each screen 
 UML UI Diagram:
 ![UML Diagram - UI_Diagram (3)](https://user-images.githubusercontent.com/47250709/108124577-5d13df00-7075-11eb-83d7-2820e19fa8fe.png)
 
+| Screen Name | User Story |
+|-------------|------------|
+| Opening Screen | 011 |
+| Sound Settings Screen | 013 |
+| Gameplay Screen | 010 |
+| Player Won Screen | 014 |
+| Player Lost Screen | 014 |
+
+
 
 # Resource Management
 
