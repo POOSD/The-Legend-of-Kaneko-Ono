@@ -1,5 +1,7 @@
 # Program Organization
 
+You should have your context, container, and component (c4model.com) diagrams in this section, along with a description and explanation of each diagram and a table that relates each block to one or more user stories.
+
 Context Diagram:
 ![UML Diagram - System_Context_Diagram](https://user-images.githubusercontent.com/47250709/107869455-3d559e80-6e5c-11eb-85dd-c8a0899b2417.png)
 
@@ -14,6 +16,8 @@ Component Diagram:
 
 
 # Code Design
+
+You should have your UML Class diagram and any other useful UML diagrams in this section. Each diagram should be accompanied by a brief description explaining what the elements are and why they are in the diagram. For your class diagram, you must also include a table that relates each class to one or more user stories.
 
 UML Class Diagram:
 ![UML Diagram - UML_Class_Diagram_Example (1)](https://user-images.githubusercontent.com/47250709/107869440-126b4a80-6e5c-11eb-8e3c-3dfd453481f1.png)
@@ -33,6 +37,8 @@ As an outright requirement, we'll be working to make all visual components visua
 We're also sticking to principles like SOLID and DRY, of course.
 
 # User Interface Design
+
+You should have one or more user interface screens in this section. Each screen should be accompanied by an explaination of the screens purpose and how the user will interact with it. You should relate each screen to one another as the user transitions through the states of your application. You should also have a table that relates each window or component to the support using stories.
 
 UML UI Diagram:
 ![UML Diagram - UI_Diagram (3)](https://user-images.githubusercontent.com/47250709/108124577-5d13df00-7075-11eb-83d7-2820e19fa8fe.png)
