@@ -32,7 +32,8 @@ The UI will include the Opening Screen, Sound Settings Screen, Gameplay Screen, 
 The directory storing settings and save data will likely be handled by the Unity engine itself.
 
 Component Diagram:
-![UML Diagram - Component_Diagram](<link_to_component_diagram>)
+![UML Diagram - UML Component Diagram](https://user-images.githubusercontent.com/47250709/108301367-db54ac00-716f-11eb-93d8-aa907ce1e43f.png)
+
 
 
 | Block Name   | User Story |
