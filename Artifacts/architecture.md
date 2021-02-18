@@ -1,7 +1,7 @@
 # Program Organization
 
 Context Diagram:
-![UML Diagram - System_Context_Diagram](https://drive.google.com/file/d/1emUW3mmPvc9NsXM-GZ8Idz3IlPOLv1yy/view?usp=sharing)
+![UML Diagram - System_Context_Diagram](https://drive.google.com/uc?export=view&id=1emUW3mmPvc9NsXM-GZ8Idz3IlPOLv1yy)
 
 | Block Name   | User Story |
 |--------------|------------|
@@ -14,7 +14,7 @@ As a single-player video game, the game only has one user per running process; a
 The game itself will be running on the Unity engine, and won't rely on multi-threading. It'll be a single instance of the game running on the user's machine.
 
 Container Diagram:
-![UML Diagram - Container_Diagram](https://drive.google.com/file/d/1sZIVpyhWZdRLkIU7kmncsFDAnE_u4aDq/view?usp=sharing)
+![UML Diagram - Container_Diagram](https://drive.google.com/uc?export=view&id=1sZIVpyhWZdRLkIU7kmncsFDAnE_u4aDq)
 
 
 | Block Name   | User Story |
@@ -32,7 +32,7 @@ The UI will include the Opening Screen, Sound Settings Screen, Gameplay Screen, 
 The directory storing settings and save data will likely be handled by the Unity engine itself.
 
 Component Diagram:
-![UML Diagram - UML Component Diagram](https://drive.google.com/file/d/1Fm1CzJPQtP9jNXjcxQwDEZ-rgEJ55X74/view?usp=sharing)
+![UML Diagram - UML Component Diagram](https://drive.google.com/uc?export=view&id=1Fm1CzJPQtP9jNXjcxQwDEZ-rgEJ55X74)
 
 
 | Block Name   | User Story |
@@ -49,7 +49,7 @@ Our Component Diagram illustrates how the user interface window facilitates the 
 # Code Design
 
 UML Class Diagram:
-![UML Diagram - UML_Class_Diagram_Example (3)](https://drive.google.com/file/d/1-Hr5A38_SSsok_6KmXngsYMZQmgVB3bg/view?usp=sharing)
+![UML Diagram - UML_Class_Diagram_Example (3)](https://drive.google.com/uc?export=view&id=1-Hr5A38_SSsok_6KmXngsYMZQmgVB3bg)
 
 
 | Class Name  | User Story |
@@ -72,7 +72,7 @@ The Ally/Enemy classes simply represent the different sides of the conflict, exc
 
 The "Character" class, of course, represents the playable character.
 
-![UML Diagram - UML Activity Diagram](https://drive.google.com/file/d/1rLM5g_tshyV8lvzRRZnQTtVwEwmDprJU/view?usp=sharing)
+![UML Diagram - UML Activity Diagram](https://drive.google.com/uc?export=view&id=1rLM5g_tshyV8lvzRRZnQTtVwEwmDprJU)
 This is an activity diagram explaining the flow of activities during gameplay. As the player goes through the game, they are met with enemies they must defeat, as well as hacking "zones" they must avoid. If their health reaches 0, they die, but if they reach an ally drone they can partially heal them, allowing them to continue on in the game. To win the game, you must defeat the enemies and reach the island where the resistance headquarters are.
 
 
@@ -88,7 +88,7 @@ We're also sticking to principles like SOLID and DRY, of course.
 # User Interface Design
 
 UML UI Diagram:
-![UML Diagram - UI_Diagram (3)](https://drive.google.com/file/d/1OfmO2OnsSFoKILgBqjqpjOdZ2X5y66sx/view?usp=sharing)
+![UML Diagram - UI_Diagram (3)](https://drive.google.com/uc?export=view&id=1OfmO2OnsSFoKILgBqjqpjOdZ2X5y66sx)
 
 | Screen Name | User Story |
 |-------------|------------|
