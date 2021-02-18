@@ -35,16 +35,15 @@ Component Diagram:
 ![UML Diagram - UML Component Diagram](https://user-images.githubusercontent.com/47250709/108301367-db54ac00-716f-11eb-93d8-aa907ce1e43f.png)
 
 
-
 | Block Name   | User Story |
 |--------------|------------|
-| Game Management         |     011    |
+| Game Management | 011 |
 | Enemy AI Controller | 016 |
 | Ally AI Controller | 017 |
 | Environment Controller | 018 |
 | Player Controller | 009 |
 
-<Insert a description of the Component Diagram and Table here>
+Our Component Diagram illustrates how the user interface window facilitates the player interacting with the game engine as well as all of the connected components. The user interface window displays the ongoings of the game and provides feedback to the player of the actions taken. The player controller user interface takes input from the player and manipulates the values of the locations that the player character assets are rendered on screen which is displayed by the user interface window. The player controller user interface accomplishes this by interfacing with the unity game engine as well as with the game management interface. The game management interface interacts and orchestrates most of the game code and subsequent interaction with other objects. The enemy ai controller determines the logic of the enemies and interfaces with the game management interface to collect information to complete this logic. The ally ai controller functions similarly to the enemy ai controller but contains different logic. The environment controller determines the behavior of the non character assets in the game, from purely astetic assets to player interactable assets. The environment controller interacts with the game management interface to determine how to act. The game management interface also interacts with the directory to retrive and store files or variables temporarily and to direct the game engine on what and how to save data for long term storage.
 
 
 # Code Design
