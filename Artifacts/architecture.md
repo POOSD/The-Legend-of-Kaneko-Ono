@@ -38,7 +38,11 @@ Component Diagram:
 
 | Block Name   | User Story |
 |--------------|------------|
-| xxx          |     xxx    |
+| Game Management         |     011    |
+| Enemy AI Controller | 016 |
+| Ally AI Controller | 017 |
+| Environment Controller | 018 |
+| Player Controller | 009 |
 
 <Insert a description of the Component Diagram and Table here>
 
