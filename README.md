@@ -2,7 +2,11 @@
 
 # Product Vision
 
-"Our project entitled, “The Legend of Kaneko Ono (カネコ オノ)" is a game built for players of side scrolling shooter games who want a fresh take on their beloved genre with new mechanics. This leads to changing the way that players understand the genre of side scrolling shooters in that it can be more interactive than just avoiding the enemies and scoring points.  As fans of the genre we decided to build a game that incorporates mechanics and gimmicks that aren’t in other games currently on the market. Unlike games such as R-Type, Gradius, or Darius, our product offers a fresh and modern experience by encouraging more risk-reward strategic thinking than typical side-scrolling shooters, and adds unique complexities via “hacking” mechanics that still complement traditional side-scrolling mechanics."
+Our project entitled, “The Legend of Kaneko Ono (カネコ オノ)" is a cyberpunk-themed game, built for fans of side scrolling shooter games who want a fresh take on their beloved genre with new mechanics. This leads to changing the way that players experience the genre of side scrolling shooters in that it can be more interactive than just avoiding the enemies and scoring points.
+
+As fans of the genre, we decided to build a game that incorporates mechanics and gimmicks that aren’t in other games currently on the market. Unlike games such as R-Type, Gradius, or Darius, our product offers a fresh and modern experience by encouraging more risk-reward strategic thinking than typical side-scrolling shooters, and adds unique complexities via “hacking” mechanics that still complement traditional side-scrolling mechanics."
+
+Specifically, our game will feature an enemy type known as the "drones". They'll be smaller than normal ships. Each drone will be encompassed by a circular area; if the player sticks around in one of these areas, they'll start getting hacked, and if they stick around for too long, they'll have a piece of their ship disabled. First, their faster movement options, then their view of the hacking zone's perimeter will be blurred; then their shields will be weakened, and finally the player's firing functionality will be disabled. As counterplay to this mechanic, the player can leave a drone's zone to stop getting hacked.
 
 
 ## Team Members
