@@ -93,6 +93,9 @@ Member 1 - main tasking
 
 Member 2 - main tasking
 
+Thomas Smith - Developed rudimentary object spawning behavior, expanded overly complex user stories, segmented validation criteria with Shir
+
+
 **note**: At this point I am expecting that you have designed out a few of the initial user stories and started to implement this. From this point forward there should be continuous integration and deployment, producing working software that is demoed at the end of each sprint.
 
 
