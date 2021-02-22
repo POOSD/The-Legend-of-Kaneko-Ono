@@ -89,7 +89,7 @@ Thomas Smith - Updated/revised the Trello user stories to be more player-focused
 
 ## Task Allocation
 
-Member 1 - main tasking
+Megan Diehl - created Parallax Background code, created user story 019, assisted in creating diagrams.
 
 Member 2 - main tasking
 
