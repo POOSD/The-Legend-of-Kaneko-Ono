@@ -97,6 +97,8 @@ Thomas Smith - Developed rudimentary object spawning behavior, expanded overly c
 
 Daniel Trimble - Assisted team mates with assorted tasks, performed research and reported resources, directed workflow, assisted in defining sprint success metrics and standards, and attended misc. meetings.
 
+Jake DiClemente - Recorded and uploaded next iteration of demo footage, assisted team with assorted tasks, tested spawning feature
+
 **note**: At this point I am expecting that you have designed out a few of the initial user stories and started to implement this. From this point forward there should be continuous integration and deployment, producing working software that is demoed at the end of each sprint.
 
 
