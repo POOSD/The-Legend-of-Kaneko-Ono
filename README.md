@@ -91,10 +91,11 @@ Thomas Smith - Updated/revised the Trello user stories to be more player-focused
 
 Megan Diehl - created Parallax Background code, created user story 019, assisted in creating diagrams.
 
-Member 2 - main tasking
+Shir Nava - fixed UI diagram, added table for UI diagram, made activity diagram, marked user stories with label and also requirements, helped fix class diagram, helped do component diagram, made user story 013, 014, requirements 011-016, made new visual assets for player and background, contributed to user story UID 010, added acceptance tests to user stories
 
 Thomas Smith - Developed rudimentary object spawning behavior, expanded overly complex user stories, segmented validation criteria with Shir
 
+Daniel Trimble - Assisted team mates with assorted tasks, performed research and reported resources, directed workflow, assisted in defining sprint success metrics and standards, and attended misc. meetings.
 
 **note**: At this point I am expecting that you have designed out a few of the initial user stories and started to implement this. From this point forward there should be continuous integration and deployment, producing working software that is demoed at the end of each sprint.
 
