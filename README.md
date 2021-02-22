@@ -22,9 +22,6 @@ Specifically, our game will feature an enemy type known as the "drones". They'll
 
 Each item should link to the actual product, be it a google spreadsheet, google doc, github markdown file, etc. Do not link to a markdown file that contains only a link to another location - link directly from the appropriate item below. Failure to adhere to this criteria wil result in the associated artifact not being graded. Add any additional items required for the specific sprint submission.
 
-- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
@@ -47,10 +44,6 @@ Thomas Smith - wrote the requirements, participated in user story creation, assi
 
 
 # Sprint 2
-
-- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product2_backlog.md)
-- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint2_backlog.md)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements2.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
@@ -76,9 +69,6 @@ Thomas Smith - Updated/revised the Trello user stories to be more player-focused
 
 # Sprint 3
 
-- [Product Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/sprint1_backlog.md)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
@@ -105,7 +95,6 @@ Jake DiClemente - Recorded and uploaded next iteration of demo footage, assisted
 # Sprint 4
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
@@ -125,7 +114,6 @@ Member 2 - main tasking
 # Sprint 5
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
@@ -143,7 +131,6 @@ Member 2 - main tasking
 # Sprint 6
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
@@ -161,7 +148,6 @@ Member 2 - main tasking
 # Sprint 7
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
@@ -179,7 +165,6 @@ Member 2 - main tasking
 # Sprint 8
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
-- [Requirements](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/requirements.md)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
