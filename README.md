@@ -83,7 +83,7 @@ Thomas Smith - Updated/revised the Trello user stories to be more player-focused
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
-- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
