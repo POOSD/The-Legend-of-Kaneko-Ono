@@ -6,7 +6,7 @@
 | 002 | Press "start".  | Gameplay screen starts up. Player object is spawned and is visible on the screen.|
 
 
-# Player Movement (UID 009)
+# Player Movement (UID 009):
 | No. | Steps to Reproduce | Expected Behavior |
 |-----|--------------------|-------------------|
 | 001 | Launch the game.  | Game window pops up/game starts up in Unity. Start game screen shows up. |
