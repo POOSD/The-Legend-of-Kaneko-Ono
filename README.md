@@ -64,9 +64,6 @@ Jake DiClemente - Completed UI diagrams, aided with UML diagrams.
 
 Thomas Smith - Updated/revised the Trello user stories to be more player-focused, and updated both backlogs and mostly redone the requirements on GitHub.
 
-**note**: For this sprint, I am anticipating that you will continue to work on the stories carried over from Sprint 1, with a focus on the design aspect of your system. I am expecting your architecture document and diagrams to reflect the system only in the context of these user stories, with some generalization to help plan for the other items currently in the backlog. I am not expecting a significant amount of implementation at this point, if any at all.
-
-
 # Sprint 3
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
@@ -75,7 +72,7 @@ Thomas Smith - Updated/revised the Trello user stories to be more player-focused
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
-- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- Automated Tests
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
@@ -90,18 +87,15 @@ Daniel Trimble - Assisted team mates with assorted tasks, performed research and
 
 Jake DiClemente - Recorded and uploaded next iteration of demo footage, assisted team with assorted tasks, tested spawning feature
 
-**note**: At this point I am expecting that you have designed out a few of the initial user stories and started to implement this. From this point forward there should be continuous integration and deployment, producing working software that is demoed at the end of each sprint.
-
-
 # Sprint 4
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
-- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
-- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- Automated Tests
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
@@ -119,9 +113,9 @@ Member 2 - main tasking
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
-- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
-- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- Automated Tests
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
@@ -137,7 +131,7 @@ Member 2 - main tasking
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
-- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
@@ -155,7 +149,7 @@ Member 2 - main tasking
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
-- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
@@ -173,7 +167,7 @@ Member 2 - main tasking
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/17Vdc5OC4rfUSvO2W96lmZ3cI7ggIRncuQItf2V7Rqn4/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1ipfbxQIK-9FjNQcccCaEq6k5ByrcPAwW1tfz4-B-bHQ/edit?usp=sharing)
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
-- [Source Code](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
 - [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
