@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> health_bar
 Using pre-set license
 
  COMMAND LINE ARGUMENTS:
 /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/MacOS/Unity
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 Using pre-set license
@@ -11,6 +15,8 @@ Desktop is 1920 x 1080 @ 60 Hz
  COMMAND LINE ARGUMENTS:
 Unity
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+>>>>>>> health_bar
 -adb2
 -batchMode
 -noUpm
@@ -18,6 +24,9 @@ Unity
 AssetImportWorker0
 -projectPath
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> health_bar
 /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project
 -logFile
 Logs/AssetImportWorker0.log
@@ -48,6 +57,7 @@ Register platform support module: /Applications/Unity/Hub/Editor/2020.2.4f1/Unit
 Registered in 0.001939 seconds.
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 32.44 ms, found 2 plugins.
+<<<<<<< HEAD
 =======
 /home/variablename/Unity/Projects/COP4331C-Group-5/Project
 -logFile
@@ -92,12 +102,17 @@ Native extension for LinuxStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 35.45 ms, found 1 plugins.
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+>>>>>>> health_bar
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> health_bar
 - Completed reload, in  1.959 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
@@ -105,6 +120,7 @@ Registered in 0.000999 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 36.18 ms, found 2 plugins.
+<<<<<<< HEAD
 =======
 - Completed reload, in  1.754 seconds
 Platform modules already initialized, skipping
@@ -115,12 +131,17 @@ Native extension for LinuxStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 36.09 ms, found 1 plugins.
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+>>>>>>> health_bar
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> health_bar
 - Completed reload, in  1.805 seconds
 Platform modules already initialized, skipping
 ========================================================================
@@ -150,6 +171,7 @@ Received Import Request.
   artifactKey: Guid(c2561ee239885f7fb89ca810e7ff43cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Images/Damage Inc SDF.asset using Guid(c2561ee239885f7fb89ca810e7ff43cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bc83c2bb81d363e9da1d9c4b0e5aa6') in 0.621217 seconds
   Import took 0.623428 seconds .
+<<<<<<< HEAD
 =======
 - Completed reload, in  0.910 seconds
 Platform modules already initialized, skipping
@@ -190,10 +212,13 @@ System memory in use after: 42.7 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2262.
 Total: 3.201462 ms (FindLiveObjects: 0.293793 ms CreateObjectMapping: 0.089394 ms MarkObjects: 2.788783 ms  DeleteObjects: 0.028033 ms)
+=======
+>>>>>>> health_bar
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.000993 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
@@ -308,10 +333,13 @@ Total: 2.881327 ms (FindLiveObjects: 0.225728 ms CreateObjectMapping: 0.113390 m
 Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< HEAD
+=======
+>>>>>>> health_bar
 Registered in 0.000919 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+<<<<<<< HEAD
 =======
 Registered in 0.000965 seconds.
 Begin MonoManager ReloadAssembly
@@ -319,12 +347,17 @@ Native extension for LinuxStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+>>>>>>> health_bar
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> health_bar
 - Completed reload, in  1.622 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
@@ -400,6 +433,7 @@ Received Import Request.
 Start importing Assets/SPRITES/Heart.png using Guid(772cd3dbccc854d30858db0c78e2962b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206da0e95382214930a0d489ac011b64') in 0.005968 seconds
   Import took 0.008525 seconds .
 
+<<<<<<< HEAD
 =======
 - Completed reload, in  0.830 seconds
 Platform modules already initialized, skipping
@@ -910,3 +944,5 @@ Start importing Assets/Scenes/DEMOSCENETWO.unity using Guid(d016cecd5a818924ebbd
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+>>>>>>> health_bar

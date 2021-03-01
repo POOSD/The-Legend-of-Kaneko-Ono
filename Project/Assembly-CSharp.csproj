@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> health_bar
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
@@ -783,6 +786,7 @@
   </Target>
   -->
 </Project>
+<<<<<<< HEAD
 =======
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
@@ -2296,3 +2300,5 @@
   -->
 </Project>
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+>>>>>>> health_bar

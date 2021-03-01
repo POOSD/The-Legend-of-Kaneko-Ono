@@ -6,6 +6,7 @@ m_ProjectFiles:
     m_ModificationDate:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       ticks: 637501632590000000
     m_Hash: 2838798205
 =======
@@ -22,12 +23,17 @@ m_ProjectFiles:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      ticks: 637501632590000000
+    m_Hash: 2838798205
+>>>>>>> health_bar
   m_LockFileStatus:
     m_FilePath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       ticks: 637501634070000000
     m_Hash: 3198298308
@@ -45,6 +51,10 @@ m_ProjectFiles:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      ticks: 637501634070000000
+    m_Hash: 3198298308
+>>>>>>> health_bar
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -55,6 +65,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.4
       source: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
       resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.2d.animation@5.0.4
 =======
@@ -68,6 +79,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.2d.animation@5.0.4
+>>>>>>> health_bar
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -138,6 +152,7 @@ m_PackageAssets:
         - 6.0.0-pre.2
         compatible:
 <<<<<<< HEAD
+<<<<<<< HEAD
         - 5.0.3
 =======
 <<<<<<< HEAD
@@ -145,6 +160,9 @@ m_PackageAssets:
 <<<<<<< HEAD
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+        - 5.0.3
+>>>>>>> health_bar
         - 5.0.4
         verified: 5.0.4
       dependencies:
@@ -192,6 +210,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637478931180000000
 <<<<<<< HEAD
 =======
@@ -203,6 +222,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      datePublishedTicks: 637478931180000000
+>>>>>>> health_bar
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -356,6 +378,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite
 =======
 <<<<<<< HEAD
@@ -368,6 +391,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite
+>>>>>>> health_bar
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -419,6 +445,7 @@ m_PackageAssets:
       version: 5.1.1
       source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.1
 =======
 <<<<<<< HEAD
@@ -431,6 +458,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.1
+>>>>>>> health_bar
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -496,6 +526,7 @@ m_PackageAssets:
         - 6.0.0-pre.2
         compatible:
 <<<<<<< HEAD
+<<<<<<< HEAD
         - 5.1.0
 =======
 <<<<<<< HEAD
@@ -503,6 +534,9 @@ m_PackageAssets:
 <<<<<<< HEAD
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+        - 5.1.0
+>>>>>>> health_bar
         - 5.1.1
         verified: 5.1.1
       dependencies:
@@ -554,6 +588,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637478930260000000
 <<<<<<< HEAD
 =======
@@ -565,6 +600,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      datePublishedTicks: 637478930260000000
+>>>>>>> health_bar
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -578,6 +616,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.tilemap
 =======
 <<<<<<< HEAD
@@ -590,6 +629,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.tilemap
+>>>>>>> health_bar
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
       displayName: 2D Tilemap Editor
@@ -856,6 +898,7 @@ m_PackageAssets:
       version: 1.1.22
       source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.test-framework@1.1.22
 =======
 <<<<<<< HEAD
@@ -868,6 +911,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.test-framework@1.1.22
+>>>>>>> health_bar
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -911,6 +957,7 @@ m_PackageAssets:
         - 1.1.22
         compatible:
 <<<<<<< HEAD
+<<<<<<< HEAD
         - 1.1.20
 =======
 <<<<<<< HEAD
@@ -918,6 +965,9 @@ m_PackageAssets:
 <<<<<<< HEAD
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+        - 1.1.20
+>>>>>>> health_bar
         - 1.1.22
         verified: 1.1.22
       dependencies:
@@ -949,6 +999,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637469345300000000
 <<<<<<< HEAD
 =======
@@ -960,10 +1011,14 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      datePublishedTicks: 637469345300000000
+>>>>>>> health_bar
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
+<<<<<<< HEAD
 <<<<<<< HEAD
         url: https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
@@ -979,6 +1034,10 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+        revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
+>>>>>>> health_bar
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
       testable: 0
@@ -1137,6 +1196,7 @@ m_PackageAssets:
       version: 1.4.6
       source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.timeline@1.4.6
 =======
 <<<<<<< HEAD
@@ -1149,6 +1209,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Library/PackageCache/com.unity.timeline@1.4.6
+>>>>>>> health_bar
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1404,6 +1467,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui
 =======
 <<<<<<< HEAD
@@ -1416,6 +1480,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui
+>>>>>>> health_bar
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1479,6 +1546,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
 =======
 <<<<<<< HEAD
@@ -1491,6 +1559,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1539,6 +1610,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni
 =======
 <<<<<<< HEAD
@@ -1551,6 +1623,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1599,6 +1674,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
 =======
 <<<<<<< HEAD
@@ -1611,6 +1687,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1659,6 +1738,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
 =======
 <<<<<<< HEAD
@@ -1671,6 +1751,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1719,6 +1802,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
 =======
 <<<<<<< HEAD
@@ -1731,6 +1815,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1779,6 +1866,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
 =======
 <<<<<<< HEAD
@@ -1791,6 +1879,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1843,6 +1934,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
 =======
 <<<<<<< HEAD
@@ -1855,6 +1947,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1911,6 +2006,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
 =======
 <<<<<<< HEAD
@@ -1923,6 +2019,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1972,6 +2071,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
 =======
 <<<<<<< HEAD
@@ -1984,6 +2084,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -2032,6 +2135,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
 =======
 <<<<<<< HEAD
@@ -2044,6 +2148,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -2092,6 +2199,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
 =======
 <<<<<<< HEAD
@@ -2104,6 +2212,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2152,6 +2263,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
 =======
 <<<<<<< HEAD
@@ -2164,6 +2276,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2212,6 +2327,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
 =======
 <<<<<<< HEAD
@@ -2224,6 +2340,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2272,6 +2391,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
 =======
 <<<<<<< HEAD
@@ -2284,6 +2404,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2336,6 +2459,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
 =======
 <<<<<<< HEAD
@@ -2348,6 +2472,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2396,6 +2523,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
 =======
 <<<<<<< HEAD
@@ -2408,6 +2536,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2464,6 +2595,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
 =======
 <<<<<<< HEAD
@@ -2476,6 +2608,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2528,6 +2663,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
 =======
 <<<<<<< HEAD
@@ -2540,6 +2676,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2588,6 +2727,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
 =======
 <<<<<<< HEAD
@@ -2600,6 +2740,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2664,6 +2807,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
 =======
 <<<<<<< HEAD
@@ -2676,6 +2820,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2724,6 +2871,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
 =======
 <<<<<<< HEAD
@@ -2736,6 +2884,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2792,6 +2943,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
 =======
 <<<<<<< HEAD
@@ -2804,6 +2956,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2852,6 +3007,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
 =======
 <<<<<<< HEAD
@@ -2864,6 +3020,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2920,6 +3079,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
 =======
 <<<<<<< HEAD
@@ -2932,6 +3092,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2988,6 +3151,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
 =======
 <<<<<<< HEAD
@@ -3000,6 +3164,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -3056,6 +3223,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
 =======
 <<<<<<< HEAD
@@ -3068,6 +3236,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -3140,6 +3311,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
 =======
 <<<<<<< HEAD
@@ -3152,6 +3324,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -3204,6 +3379,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
 =======
 <<<<<<< HEAD
@@ -3216,6 +3392,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -3276,6 +3455,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
 =======
 <<<<<<< HEAD
@@ -3288,6 +3468,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3350,6 +3533,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
 =======
 <<<<<<< HEAD
@@ -3362,6 +3546,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3410,6 +3597,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
 =======
 <<<<<<< HEAD
@@ -3422,6 +3610,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3482,6 +3673,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems
 =======
 <<<<<<< HEAD
@@ -3494,6 +3686,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3546,6 +3741,7 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative
 =======
 <<<<<<< HEAD
@@ -3558,6 +3754,9 @@ m_PackageAssets:
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative
+>>>>>>> health_bar
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -4043,6 +4242,7 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 m_ProjectPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Packages
 m_EditorVersion: 2020.2.4f1 (becced5a802b)
 =======
@@ -4057,3 +4257,7 @@ m_EditorVersion: 2020.2.3f1 (8ff31bc5bf5b)
 >>>>>>> main
 >>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+m_ProjectPath: /Users/jake/Desktop/pooproject/COP4331C-Group-5/Project/Packages
+m_EditorVersion: 2020.2.4f1 (becced5a802b)
+>>>>>>> health_bar

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sceneSetups: []
 =======
 sceneSetups:
@@ -15,3 +16,6 @@ sceneSetups:
   isActive: 1
   isSubScene: 0
 >>>>>>> cbfb1be10eb0c4fa954a67588076f63de36f80e5
+=======
+sceneSetups: []
+>>>>>>> health_bar
