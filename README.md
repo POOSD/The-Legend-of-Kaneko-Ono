@@ -100,7 +100,7 @@ Jake DiClemente - Recorded and uploaded next iteration of demo footage, assisted
 
 ## Task Allocation
 
-Member 1 - main tasking
+Megan Diehl- Created User Story 010, Created ParallaxBackground.cs / Parallax.cs, and got the parallax background working in Unity
 
 Member 2 - main tasking
 

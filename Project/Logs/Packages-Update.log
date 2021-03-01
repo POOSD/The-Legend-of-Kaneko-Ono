@@ -49,7 +49,11 @@ The following packages were updated:
   com.unity.2d.psdimporter from version 4.0.1 to 4.0.2
   com.unity.2d.spriteshape from version 5.0.1 to 5.1.0
 
+<<<<<<< HEAD
 === Sun Feb 28 06:29:17 2021
+=======
+=== Thu Feb 25 21:31:18 2021
+>>>>>>> cb7d8a1a1639483fc5bdcfe6bd324d73f8aa31f6
 
 Packages were changed.
 Update Mode: updateDependencies
