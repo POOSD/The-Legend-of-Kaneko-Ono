@@ -104,6 +104,8 @@ Megan Diehl- Created User Story 010, Created ParallaxBackground.cs / Parallax.cs
 
 Daniel Trimble - Coded, tested, and completed user stories 005 and 011, including the creation of all scripts, sprites, animation effects, game objects, and scenes.
 
+Shir Nava - Added new background and player ship assets to unity, made user stories 023,022,024, updated velocity and burndown charts, added acceptance tests to requirements, completed user story 010, updated manual tests.
+
 **note**: Sprint 4 and onward will contain updates to your artifacts as appropriate for the current sprint, as well as continuous improvements to your software and updated product demos.
 
 
