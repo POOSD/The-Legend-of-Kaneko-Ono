@@ -1,5 +1,7 @@
 # The Legend of Kaneko Ono (カネコ オノ)
 
+![alt text](https://github.com/COP4331C-Group-5/Reference_Assets/Visual_References/LKO.jpg?raw=true)
+
 # Product Vision
 
 Our project entitled, “The Legend of Kaneko Ono (カネコ オノ)" is a cyberpunk-themed game, built for fans of side scrolling shooter games who want a fresh take on their beloved genre with new mechanics. This leads to changing the way that players experience the genre of side scrolling shooters in that it can be more interactive than just avoiding the enemies and scoring points.
