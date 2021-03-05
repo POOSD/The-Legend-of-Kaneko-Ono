@@ -1,6 +1,6 @@
 # The Legend of Kaneko Ono (カネコ オノ)
 
-![alt text](https://github.com/[POOSD]/[COP4331C-Group-5]/[Reference_Assets]/[Visual_References]/LKO.jpg?raw=true)
+![alt text](https://github.com/POOSD/COP4331C-Group-5/Reference_Assets/Visual_References/LKO.jpg?raw=true)
 
 # Product Vision
 
