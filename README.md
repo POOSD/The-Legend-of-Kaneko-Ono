@@ -127,7 +127,8 @@ Jake DiClemente - In unity, started work fixing camera and canvas layouts. Recor
 
 Member 1 - main tasking
 
-Member 2 - main tasking
+Shir Nava - Created user stories UID 024, 025, Velocity Chart, Burndown Chart, created new Drone visual assets for ally and enemy, finished User Story 024, updated Manual Tests for User Story 024 and other Manual Tests.
+
 
 
 # Sprint 6
