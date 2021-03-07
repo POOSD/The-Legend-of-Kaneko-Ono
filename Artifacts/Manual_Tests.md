@@ -62,3 +62,10 @@
 | 006 | Click Exit button. | Debug message denotes that exit command has been registered. |
 | 007 | Click Play button. | Screen changes to intended level. |
 
+# Drones (UID 024):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.   | Game opens on main menu screen. |
+| 002 | Click Play button. | Screen changes to gameplay screen. Ally and Enemy drones objects are spawned randomly onto the screen on opposing sides.|
+
+
