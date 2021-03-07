@@ -125,7 +125,7 @@ Jake DiClemente - In unity, started work fixing camera and canvas layouts. Recor
 
 ## Task Allocation
 
-Member 1 - main tasking
+Megan Diehl - Created UID 26, finished UID 25, created the healer functionality for the ally drones, organized meetings and communication for the Sprint.
 
 Shir Nava - Created user stories UID 024, 025, Velocity Chart, Burndown Chart, created new Drone visual assets for ally and enemy, finished User Story 024, updated Manual Tests for User Story 024 and other Manual Tests.
 
