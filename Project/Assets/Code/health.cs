@@ -2,21 +2,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//trigger script
 public class health : MonoBehaviour
 {
     public int maxHealth = 100;
     public float curHealth = 100.0f;
     public float regen = 5.0f;
-    public int damage = 25;
-    public float healthBarLength;
     public GameObject player;
     public bool isRegenerating = false;
+    public bool isDead = false;
+    public bool damaged = false;
+    public RectTransform healthBarRect;
 
     // Start is called before the first frame update
     void Start()
     {
-        curHealth = 10;
-        healthBarLength = Screen.width / 2;
+        healthBarRect = healthBarRect.GetComponent<RectTransform>();
+        healthBarRect.sizeDelta = new Vector2(100, 25);
         AdjustCurrentHealth();
     }
 
@@ -35,27 +37,26 @@ public class health : MonoBehaviour
         if (curHealth < 80)
         {
             curHealth += regen * Time.smoothDeltaTime;
+            healthBarRect.sizeDelta = new Vector2(curHealth, healthBarRect.sizeDelta.y);
         }
-
-        healthBarLength = (Screen.width / 2) * (curHealth / (float)maxHealth);
 
     }
 
     // Update is called once per frame
     void Update()
     {
+        damaged = false;
         if (isRegenerating)
         {
             AdjustCurrentHealth();
         }
         
     }
-
-    private void OnTriggerEnter2D(Collider2D player)
+    public void TakeDamage(int amount)
     {
-        isRegenerating = true;
-        //player.TakeDamage(damage);
-        //curHealth -= damage;
+        damaged = true;
+        // current health decreases by the damage value
+        curHealth -= amount;
     }
     
 }

@@ -6,7 +6,6 @@ public class ParallaxBackground : MonoBehaviour {
 
     [SerializeField] private Vector2 parallaxEffectMultiplier;
     [SerializeField] private bool infiniteHorizontal;
-    [SerializeField] private bool infiniteVertical;
 
     private Transform cameraTransform;
     private Vector3 lastCameraPosition;
@@ -29,15 +28,8 @@ public class ParallaxBackground : MonoBehaviour {
 
         if (infiniteHorizontal) {
             if (Mathf.Abs(cameraTransform.position.x - transform.position.x) >= textureUnitSizeX) {
-                float offsetPositionX = (cameraTransform.position.x - transform.position.x) % textureUnitSizeX;
+                float offsetPositionX = (float)(cameraTransform.position.x - transform.position.x) % textureUnitSizeX;
                 transform.position = new Vector3(cameraTransform.position.x + offsetPositionX, transform.position.y);
-            }
-        }
-
-        if (infiniteVertical) {
-            if (Mathf.Abs(cameraTransform.position.y - transform.position.y) >= textureUnitSizeY) {
-                float offsetPositionY = (cameraTransform.position.y - transform.position.y) % textureUnitSizeY;
-                transform.position = new Vector3(transform.position.x, cameraTransform.position.y + offsetPositionY);
             }
         }
     }
