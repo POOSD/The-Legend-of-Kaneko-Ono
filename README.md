@@ -146,6 +146,8 @@ Shir Nava - Created user stories UID 024, 025, Velocity Chart, Burndown Chart, c
 
 Megan Diehl - Created and completed UID 029, fixed the parallax background/side scrolling background, fixed the healer drones, added damage, added the health bar and adjusted it for the damage and healing, created UID 030.
 
+Shir Nava: Finished User Story 014, Velocity and Burndown Charts, Fixed Menu Screen alignment, Added Manual Test for User Story 014
+
 Member 2 - main tasking
 
 
