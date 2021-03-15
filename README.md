@@ -129,7 +129,7 @@ Megan Diehl - Created UID 26, finished UID 25, created the healer functionality 
 
 Shir Nava - Created user stories UID 024, 025, Velocity Chart, Burndown Chart, created new Drone visual assets for ally and enemy, finished User Story 024, updated Manual Tests for User Story 024 and other Manual Tests.
 
-
+Jake DiClemente - Created and finished user stories UID 029, 009, and helped with the demo.
 
 # Sprint 6
 
@@ -147,6 +147,8 @@ Shir Nava - Created user stories UID 024, 025, Velocity Chart, Burndown Chart, c
 Megan Diehl - Created and completed UID 029, fixed the parallax background/side scrolling background, fixed the healer drones, added damage, added the health bar and adjusted it for the damage and healing, created UID 030.
 
 Shir Nava: Finished User Story 014, Velocity and Burndown Charts, Fixed Menu Screen alignment, Added Manual Test for User Story 014
+
+Jake DiClemente - Completed user story UID 004, helped with demo.
 
 Member 2 - main tasking
 
