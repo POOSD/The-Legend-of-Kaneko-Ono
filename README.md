@@ -131,6 +131,8 @@ Shir Nava - Created user stories UID 024, 025, Velocity Chart, Burndown Chart, c
 
 Jake DiClemente - Created and finished user stories UID 029, 009, and helped with the demo.
 
+Thomas Smith - Created and finished user story 27 and helped with the demo.
+
 # Sprint 6
 
 - [Trello Board](https://trello.com/b/cVjYcmDD/project)
@@ -150,7 +152,7 @@ Shir Nava: Finished User Story 014, Velocity and Burndown Charts, Fixed Menu Scr
 
 Jake DiClemente - Completed user story UID 004, worked with Megan on the health bar, helped with demo.
 
-Member 2 - main tasking
+Thomas Smith - Finished user story 007 and developed automated tests.
 
 
 # Sprint 7
