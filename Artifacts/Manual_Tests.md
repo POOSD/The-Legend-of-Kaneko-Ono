@@ -89,3 +89,14 @@
 | 002 | Press "play".     | Gameplay screen starts up. Player object is spawned and is visible on the screen. |
 | 003 | Move to nearest enemy drone | The health bar size decreases, and the current health decreases. |
 | 004 | Move to nearest ally drone  | The health bar size increases, and the current health increases. |
+
+# Game End Status Screen (UID 014):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.   | Game opens on main menu screen. |
+| 002 | Click Play button. | Screen changes to gameplay screen.|
+| 003 | Play game poorly.  | Screen changes to reflect gameplay.|
+| 004 | Lose game.  | Screen changes to "Game Over" screen.|
+| 005 | Play game well.  | Screen changes to reflect gameplay.|
+| 006 | Win game.  | Screen changes to "You Win!" screen.|
+
