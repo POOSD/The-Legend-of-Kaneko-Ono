@@ -148,7 +148,7 @@ Megan Diehl - Created and completed UID 029, fixed the parallax background/side 
 
 Shir Nava: Finished User Story 014, Velocity and Burndown Charts, Fixed Menu Screen alignment, Added Manual Test for User Story 014
 
-Jake DiClemente - Completed user story UID 004, helped with demo.
+Jake DiClemente - Completed user story UID 004, worked with Megan on the health bar, helped with demo.
 
 Member 2 - main tasking
 
