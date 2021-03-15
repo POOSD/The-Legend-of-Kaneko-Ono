@@ -68,4 +68,24 @@
 | 001 | Launch the game.   | Game opens on main menu screen. |
 | 002 | Click Play button. | Screen changes to gameplay screen. Ally and Enemy drones objects are spawned randomly onto the screen on opposing sides.|
 
+# Parallax Background (UID 019):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game opens on main menu screen. |
+| 002 | Press "play".     | Gameplay screen starts up. Player object is spawned and is visible on the screen. |
+| 003 | Press "d"         | The player moves to the right, and the backgrounf scrolls infinitely, with each layer moving at independent speeds |
 
+# Damage (against player) (UID 029):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game opens on main menu screen. |
+| 002 | Press "play".     | Gameplay screen starts up. Player object is spawned and is visible on the screen. |
+| 003 | Move to nearest enemy drone | The health bar size decreases, and the current health decreases. |
+
+# Healing (UID 025):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game opens on main menu screen. |
+| 002 | Press "play".     | Gameplay screen starts up. Player object is spawned and is visible on the screen. |
+| 003 | Move to nearest enemy drone | The health bar size decreases, and the current health decreases. |
+| 004 | Move to nearest ally drone  | The health bar size increases, and the current health increases. |
