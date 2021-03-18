@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class playerDamage : MonoBehaviour
 {
-        public float timeBetweenAttacks = 0.5f;
-        public int attackDamage = 25;
-        float timer;
-        public GameObject player;
-        private health playerHealth;
+    public float timeBetweenAttacks = 0.5f;
+    public int attackDamage = 25;
+    float timer;
+    public GameObject player;
+    private health playerHealth;
 
     // Start is called before the first frame update
     void Start()
@@ -29,11 +29,11 @@ public class playerDamage : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        /*if (playerHealth.curHealth <= 0)
+        if (playerHealth.curHealth <= 0)
         {
             // kill the player
-            GameObject.Destroy(player);
-        }*/
+            Destroy(gameObject);
+        }
     }
 
     void Attack()

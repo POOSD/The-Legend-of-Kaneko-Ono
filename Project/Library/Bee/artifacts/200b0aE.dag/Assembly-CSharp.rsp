@@ -312,6 +312,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Code/boundedbox.cs"
 "Assets/Code/Enemy.cs"
+"Assets/Code/enemyMovement.cs"
 "Assets/Code/Enemy_Despawn.cs"
 "Assets/Code/Enemy_Movement.cs"
 "Assets/Code/Enemy_Spawn.cs"

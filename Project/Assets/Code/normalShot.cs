@@ -7,11 +7,13 @@ public class normalShot : MonoBehaviour
    public float speed = 5f;
    public int damage = 50;
    public Rigidbody2D rigidBody;
-   public GameObject impactEffect;
+   //public GameObject impactEffect;
+   public float curHealth;
 
    // Start is called before the first frame update
    void Start()
    {
+      curHealth = 100;
       rigidBody.velocity = transform.right * speed;
    }
 
@@ -22,9 +24,10 @@ public class normalShot : MonoBehaviour
       if (enemy != null)
       {
         enemy.TakeDamage(damage);
+        curHealth -= damage;
       }
 
-      Instantiate(impactEffect, transform.position, transform.rotation);
+      //Instantiate(impactEffect, transform.position, transform.rotation);
 
       Destroy(gameObject);
    }
