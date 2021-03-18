@@ -743,6 +743,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1295462287
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1295462288}
+  m_Layer: 0
+  m_Name: FiringPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1295462288
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1295462287}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.360492, y: -1.4645876, z: -3.9500527}
+  m_LocalScale: {x: 1.537279, y: 1.457301, z: 2}
+  m_Children: []
+  m_Father: {fileID: 2146036636}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1759821495
 GameObject:
   m_ObjectHideFlags: 0
@@ -1518,6 +1548,7 @@ GameObject:
   - component: {fileID: 2146036632}
   - component: {fileID: 2146036637}
   - component: {fileID: 2146036638}
+  - component: {fileID: 2146036639}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -1752,6 +1783,7 @@ Transform:
   m_LocalScale: {x: 0.6505, y: 0.6862, z: 0.5}
   m_Children:
   - {fileID: 1868602148}
+  - {fileID: 1295462288}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1788,3 +1820,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainCamera: {fileID: 1868602147}
+--- !u!114 &2146036639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2146036631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a8768044f3efda0a091087c6779836, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firePoint: {fileID: 1295462288}
+  normalShot_prefab: {fileID: 1891679785261652051, guid: 431eac63cac754da295d8274cf08dc51, type: 3}
