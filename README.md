@@ -141,7 +141,7 @@ Thomas Smith - Created and finished user story 27 and helped with the demo.
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
-- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project/Assets/Tests)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
@@ -163,7 +163,7 @@ Thomas Smith - Finished user story 007 and developed automated tests.
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
-- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project/Assets/Tests)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
@@ -181,7 +181,7 @@ Member 2 - main tasking
 - [System Architecture](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/architecture.md)
 - [Source Code](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project)
 - [Manual Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/Manual_Tests.md)
-- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/blob/main/Project/README_project.md)
+- [Automated Tests](https://github.com/POOSD/COP4331C-Group-5/tree/main/Project/Assets/Tests)
 - [Product Demonstration](https://www.youtube.com/channel/UCZMx5Fry9l5BGQqolw0SRwA)
 
 ## Task Allocation
