@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,15 +10,15 @@ namespace Tests
         [Test]
         public void healthNegativeValueException()
         {
-            var health = new GameObject().AddComponent<health>();
-            Assert.Throws<ArgumentOutOfRangeException>(() => health.DealDamage(new DamageData(-10, null, null)));
+            var healthy = new GameObject().AddComponent<health>();
+            Assert.Throws<ArgumentOutOfRangeException>(() => healthy.TakeDamage(10));
         }
 
         [Test]
         public void healthNegativeValueExceptionTwo()
         {
-            var health = new GameObject().AddComponent<health>();
-            Assert.Throws<ArgumentOutOfRangeException>(() => health.Heal(-10));
+            var healthy = new GameObject().AddComponent<health>();
+            Assert.Throws<ArgumentOutOfRangeException>(() => healthy.TakeDamage(-10));
         }
     }
 }
