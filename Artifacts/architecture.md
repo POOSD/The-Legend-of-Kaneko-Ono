@@ -88,7 +88,7 @@ We're also sticking to principles like SOLID and DRY, of course.
 # User Interface Design
 
 UML UI Diagram:
-![UML Diagram - UI_Diagram (6)](https://user-images.githubusercontent.com/47250709/111877189-78298580-8978-11eb-809a-f4b91061b027.png)
+![UML Diagram - UI_Diagram (7)](https://user-images.githubusercontent.com/47250709/111877320-2df4d400-8979-11eb-85c0-ef1d662d7c0d.png)
 
 
 | Screen Name | User Story |
