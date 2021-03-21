@@ -100,3 +100,22 @@
 | 005 | Play game well.  | Screen changes to reflect gameplay.|
 | 006 | Win game.  | Screen changes to "You Win!" screen.|
 
+# Volume Toggle (UID 013):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.   | Game opens on main menu screen. Music starts playing as menu screen pops up.|
+| 002 | Click Options Button. | Screen changes to options screen.|
+| 003 | Click and drag the volume slider to the left. | Music volume goes down compared to earlier.|
+| 004 | Click and drag the volume slider to the right. | Music volume goes up compared to earlier.|
+
+# Putting it All Together (UID 025):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.   | Game opens on main menu screen. Music plays.|
+| 002 | Click Options Button. | Screen changes to options screen.|
+| 003 | Click and drag the volume slider to the left and right. | Music volume goes down/up respectively compared to earlier.|
+| 004 | Click Back Button. | Screen changes back to to main menu screen.|
+| 005 | Click Play button. | Screen changes to updated current demo gameplay screen with previous sprint's functionalities. |
+
+
+
