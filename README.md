@@ -170,7 +170,7 @@ Thomas Smith - Finished user story 007 and developed automated tests.
 
 Shir Nava- User Stories 026 and 013, Manual Tests for User Stories 026 and 013, Automated Test for UID 013, Updated UI Diagram with current game screens, Velocity Chart and Burndown Charts
 
-Member 2 - main tasking
+Megan Diehl - User Story 030, created User Story 032, added enemy movement
 
 
 # Sprint 8
