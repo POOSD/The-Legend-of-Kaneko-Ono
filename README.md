@@ -168,7 +168,7 @@ Thomas Smith - Finished user story 007 and developed automated tests.
 
 ## Task Allocation
 
-Member 1 - main tasking
+Shir Nava- User Stories 026 and 013, Manual Tests for User Stories 026 and 013, Automated Test for UID 013, Velocity Chart and Burndown Charts
 
 Member 2 - main tasking
 
