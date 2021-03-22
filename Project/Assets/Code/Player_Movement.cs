@@ -12,7 +12,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player_Movement : MonoBehaviour
+public class Player_Movement : ShipComponent
 {
     public float movementHorizontal;
     public float movementVertical;
@@ -21,6 +21,8 @@ public class Player_Movement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        componentName = "Thrusters";
+        isActive = true;
         // Sets the amount of drift after movement key is released.
         // 0.85 is a magic number but "felt" good.
         driftVelocity = 0.9f;
@@ -36,25 +38,28 @@ public class Player_Movement : MonoBehaviour
         movementHorizontal *= driftVelocity;
         movementVertical *= driftVelocity;
 
-        // Upward Movement Logic
-        if (Input.GetKey (KeyCode.UpArrow) || Input.GetKey (KeyCode.W))
+        if (isActive)
         {
-            movementVertical += 0.75f;
-        }
-        // Downward Movement Logic
-        if (Input.GetKey (KeyCode.DownArrow) || Input.GetKey (KeyCode.S))
-        {
-            movementVertical -= 0.75f;
-        }
-        // Leftward Movement Logic
-        if (Input.GetKey (KeyCode.LeftArrow) || Input.GetKey (KeyCode.A)) 
-        {
-            movementHorizontal -= 0.75f;
-        }
-        // Rightward Movement Logic
-        if (Input.GetKey (KeyCode.RightArrow) || Input.GetKey (KeyCode.D)) 
-        {
-            movementHorizontal += 0.75f;
+            // Upward Movement Logic
+            if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W))
+            {
+                movementVertical += 0.75f;
+            }
+            // Downward Movement Logic
+            if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S))
+            {
+                movementVertical -= 0.75f;
+            }
+            // Leftward Movement Logic
+            if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+            {
+                movementHorizontal -= 0.75f;
+            }
+            // Rightward Movement Logic
+            if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
+            {
+                movementHorizontal += 0.75f;
+            }
         }
 
         // Sets the velocity field each frame to move the character.
