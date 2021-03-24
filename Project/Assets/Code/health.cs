@@ -52,7 +52,7 @@ public class health : MonoBehaviour
         }
         
     }
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         damaged = true;
         // current health decreases by the damage value
