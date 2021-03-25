@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Working_Demo.unity
     guid: 3e97d9918fe2ede419526d0ff2786c25
+  - enabled: 1
+    path: Assets/Scenes/LOSESCREEN.unity
+    guid: c0ce1b2ae14addb4c9cc947f96b62171
+  - enabled: 1
+    path: Assets/Scenes/WINSCREEN.unity
+    guid: 1965bfbd4b3cfb84d878366b7f76899f
   m_configObjects: {}
