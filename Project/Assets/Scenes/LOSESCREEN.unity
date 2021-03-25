@@ -748,7 +748,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1524502394}
         m_TargetAssemblyTypeName: PlayAgain, Code
         m_MethodName: Quit
         m_Mode: 1
