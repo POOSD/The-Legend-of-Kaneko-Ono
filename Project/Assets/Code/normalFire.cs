@@ -28,7 +28,7 @@ public class normalFire : MonoBehaviour
       }
 
       //Instantiate(impactEffect, transform.position, transform.rotation);
-
+      Environmental_Variables_Container.numberEnemiesKilled+=1;
       Destroy(gameObject);
    }
 }

@@ -22,6 +22,7 @@ public class Enemy : MonoBehaviour
    {
       Instantiate(deathEffect, transform.position, Quaternion.identity);
       Destroy(gameObject);
+      Environmental_Variables_Container.numberEnemiesKilled+=1;
    }
 
     internal void TakeDamage(float damage)

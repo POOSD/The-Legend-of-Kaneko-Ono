@@ -30,11 +30,12 @@ public class playerDamage : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        /*if (playerHealth.curHealth <= 0)
+        if (playerHealth.curHealth <= 0)
         {
             // kill the player
             Destroy(gameObject);
-        }*/
+            FindObjectOfType<gameManager>().gameOver("lose");
+        }
     }
 
     void Attack()

@@ -27,6 +27,9 @@ public class health : MonoBehaviour
         if (curHealth <= 0)
         {
             curHealth = 0;
+             // kill the player
+            Destroy(player);
+            FindObjectOfType<gameManager>().gameOver("lose");
         }
 
         if (curHealth > maxHealth)
