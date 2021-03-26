@@ -1,3 +1,5 @@
+/*
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -38,3 +40,4 @@ public class normalFireShot : MonoBehaviour
       //Instantiate(impactEffect, transform.position, transform.rotation);
    }
 }
+*/

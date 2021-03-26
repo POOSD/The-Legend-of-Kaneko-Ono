@@ -12,7 +12,7 @@ public class enemyMovement : MonoBehaviour
     public int pointSelection;
     //public GameObject enemy;
     private normalShot enemyHealth;
-    private bool issue = true;
+    //private bool issue = true;
     private bool moving = false;
     // Start is called before the first frame update
     void Start()

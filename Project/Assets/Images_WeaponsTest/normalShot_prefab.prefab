@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 1891679785261652051}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2.235, y: -0.778, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -72,8 +72,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -400515119
-  m_SortingLayer: 0
+  m_SortingLayerID: -1846045239
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c82f20ef088900e29882a9c7e5305040, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -122,7 +122,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.0018119961, y: -0.0063420013}
   serializedVersion: 2
-  m_Radius: 0.029700108
+  m_Radius: 0.035
 --- !u!114 &6013819102605032625
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135,7 +135,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbc2023ffc026635a8fadf8f29d539c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 10
   damage: 32
   rigidBody: {fileID: 8504486481579689647}
+  impactEffect: {fileID: 6068923526949449345, guid: 9b136a32a5d41c1b9a7aab1e133e70d9, type: 3}
   curHealth: 0
