@@ -6,7 +6,7 @@ using UnityEngine;
 public class Environmental_Variables_Container : MonoBehaviour
 {
     public int numberPlayerCharacters;
-    public int numberEnemyCharacters;
+    public static int numberEnemyCharacters;
     public static int numberEnemiesKilled;
     public int score;
     public int difficulty;

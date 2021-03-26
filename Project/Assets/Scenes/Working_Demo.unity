@@ -1003,6 +1003,70 @@ Transform:
   m_Father: {fileID: 2146036636}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1496947659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1496947661}
+  - component: {fileID: 1496947660}
+  - component: {fileID: 1496947662}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1496947660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1496947659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b719774266e9c4498ff2844f34a89a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  side: 0
+  enemy: {fileID: 1759821495}
+  spawnRate: 0.5
+  currentSpawner: {fileID: 0}
+--- !u!4 &1496947661
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1496947659}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 837.1632, y: 548.6919, z: -29.574223}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1496947662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1496947659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b719774266e9c4498ff2844f34a89a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  side: 1
+  enemy: {fileID: 990617679}
+  spawnRate: 2
+  currentSpawner: {fileID: 0}
 --- !u!1 &1502895512
 GameObject:
   m_ObjectHideFlags: 0
@@ -1210,6 +1274,7 @@ GameObject:
   - component: {fileID: 1759821502}
   - component: {fileID: 1759821497}
   - component: {fileID: 1759821499}
+  - component: {fileID: 1759821504}
   m_Layer: 0
   m_Name: enemyDrone
   m_TagString: Enemy
@@ -1375,9 +1440,22 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.8, y: 1.01}
+  m_AnchoredPosition: {x: -2.71, y: -0.75}
   m_SizeDelta: {x: 2, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1759821504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759821495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a159615b0aa834db5880a66e50fc36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MainCamera: {fileID: 1868602147}
 --- !u!1 &1792723735
 GameObject:
   m_ObjectHideFlags: 0
