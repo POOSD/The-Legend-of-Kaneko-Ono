@@ -22,16 +22,21 @@ public class normalShot : MonoBehaviour
    {
       Enemy enemy = hitInfo.GetComponent<Enemy>();
       if(enemy != null){
-      if (enemy.health > 0)
-      {
-         enemy.TakeDamage(damage);
-         curHealth -= damage;
-      }
+        if (enemy.health > 0)
+        {
+           enemy.TakeDamage(damage);
+           curHealth -= damage;
+        }
+
       Debug.Log(enemy.name + " " + damage + " " + enemy.health);
+
 
       Instantiate(impactEffect, transform.position, transform.rotation);
 
       Destroy(gameObject);
       }
+   }
+   void OnBecameInvisible() {
+      Destroy(this);
    }
 }

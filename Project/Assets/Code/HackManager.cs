@@ -8,6 +8,7 @@ public class HackManager : MonoBehaviour
     public List<ShipComponent> hackables;
     public int howManyHacked, totalComponentCount;
     public GameObject player;
+    public bool isOriginal;
 
     void getHackables()
     {
@@ -59,9 +60,12 @@ public class HackManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        howManyHacked = 0;
-        totalComponentCount = 0;
-        getHackables();
+        isOriginal = (hackables.Capacity == 0);
+        if (isOriginal) {
+            howManyHacked = 0;
+            totalComponentCount = 0;
+            getHackables();
+        }
         player = GameObject.FindWithTag("Player");
     }
 
@@ -69,6 +73,7 @@ public class HackManager : MonoBehaviour
     {
         if (col.gameObject == player)
         {
+            Debug.Log("Oops, look like you've been hacked!");
             hackNext();
         }
     }
