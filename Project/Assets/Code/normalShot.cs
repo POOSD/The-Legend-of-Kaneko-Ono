@@ -36,4 +36,7 @@ public class normalShot : MonoBehaviour
       Destroy(gameObject);
       }
    }
+   void OnBecameInvisible() {
+      Destroy(this);
+   }
 }
