@@ -13,6 +13,7 @@ public class droneSpawner : MonoBehaviour
     public float spawnRate=2f;
     float nextSpawn=0.0f;
 
+    public HealthBar healthBar;
 
     public Transform currentSpawner;
     // Start is called before the first frame update
@@ -25,7 +26,7 @@ public class droneSpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Time.time > nextSpawn)
+        if (Time.time > nextSpawn)
             {
                 nextSpawn=Time.time + spawnRate;
 
