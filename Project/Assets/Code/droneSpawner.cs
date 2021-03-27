@@ -12,8 +12,8 @@ public class droneSpawner : MonoBehaviour
     Vector2 whereToSpawn;
     public float spawnRate=2f;
     float nextSpawn=0.0f;
+    float addDist=0.0f;
 
-    public HealthBar healthBar;
 
     public Transform currentSpawner;
     // Start is called before the first frame update
@@ -26,7 +26,7 @@ public class droneSpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Time.time > nextSpawn)
+        if(Time.time > nextSpawn)
             {
                 nextSpawn=Time.time + spawnRate;
 
@@ -35,11 +35,11 @@ public class droneSpawner : MonoBehaviour
                 //drone is enemy
                 if(side==0)
                 {
-                randX=Random.Range(playerPos.x+6.0f,playerPos.x+9.0f);
+                randX=Random.Range(playerPos.x+6.0f+addDist,playerPos.x+9.0f+addDist);
                 }
                 else //drone is ally
                 {
-                randX=Random.Range(playerPos.x-0.5f,playerPos.x+0.5f);
+                randX=Random.Range(playerPos.x-0.5f+addDist,playerPos.x+0.5f+addDist);
                 }
                 randY=Random.Range(-1.85f,1.85f);
                 whereToSpawn=new Vector2(randX,randY);
@@ -48,7 +48,7 @@ public class droneSpawner : MonoBehaviour
                     
                     Instantiate(enemy,whereToSpawn,Quaternion.identity);
                     Environmental_Variables_Container.numberEnemyCharacters+=1;
-
+                    addDist+=1.0f;
                 }
 
             }
