@@ -577,6 +577,7 @@ GameObject:
   m_Component:
   - component: {fileID: 800041736}
   - component: {fileID: 800041735}
+  - component: {fileID: 800041737}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -610,6 +611,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &800041737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800041734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac8eaf742a057729bed280821d45c51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberPlayerCharacters: 0
+  score: 0
+  difficulty: 0
+  velocityModifier: 0
+  driftModifier: 0
+  scrollSpeed: 0
+  playerVulnerability: 0
+  bossVulnerability: 0
 --- !u!1 &813711448
 GameObject:
   m_ObjectHideFlags: 0
@@ -1102,6 +1123,7 @@ GameObject:
   - component: {fileID: 1496947661}
   - component: {fileID: 1496947660}
   - component: {fileID: 1496947662}
+  - component: {fileID: 1496947663}
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
@@ -1153,6 +1175,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   enemy: {fileID: 990617679}
+  spawnRate: 2
+  currentSpawner: {fileID: 0}
+--- !u!114 &1496947663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1496947659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b719774266e9c4498ff2844f34a89a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  side: 0
+  enemy: {fileID: 0}
   spawnRate: 2
   currentSpawner: {fileID: 0}
 --- !u!1 &1502895512
@@ -1270,7 +1308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
-  healthBarRect: {fileID: 0}
+  healthBar: {fileID: 0}
 --- !u!1 &1573717204
 GameObject:
   m_ObjectHideFlags: 0
@@ -1527,6 +1565,7 @@ GameObject:
   - component: {fileID: 1759821497}
   - component: {fileID: 1759821499}
   - component: {fileID: 1759821504}
+  - component: {fileID: 1759821505}
   m_Layer: 0
   m_Name: enemyDrone
   m_TagString: Enemy
@@ -1632,12 +1671,12 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.66
+  m_Radius: 1.05
 --- !u!114 &1759821500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1665,7 +1704,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 500
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
-  healthBarRect: {fileID: 0}
+  healthBar: {fileID: 0}
 --- !u!222 &1759821502
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1708,6 +1747,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainCamera: {fileID: 1868602147}
+--- !u!114 &1759821505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759821495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3619c2b5b7ae9438f69a37dc15e07d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hackables: []
+  howManyHacked: 0
+  totalComponentCount: 0
+  player: {fileID: 0}
+  isOriginal: 0
 --- !u!1 &1792723735
 GameObject:
   m_ObjectHideFlags: 0

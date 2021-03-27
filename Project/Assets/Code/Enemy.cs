@@ -14,11 +14,6 @@ public class Enemy : MonoBehaviour
 
     //healthBarRect.sizeDelta = new Vector2(0.96f - (curHealth / 100), healthBarRect.sizeDelta.y);
 
-    public void Update()
-    {
-        Debug.Log(health);
-    }
-
     public void TakeDamage(int damage)
     {
         health -= damage;
