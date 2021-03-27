@@ -21,6 +21,7 @@ public class normalShot : MonoBehaviour
    void OnTriggerEnter2D(Collider2D hitInfo)
    {
       Enemy enemy = hitInfo.GetComponent<Enemy>();
+      if(enemy != null){
       if (enemy.health > 0)
       {
          enemy.TakeDamage(damage);
@@ -31,5 +32,6 @@ public class normalShot : MonoBehaviour
       Instantiate(impactEffect, transform.position, transform.rotation);
 
       Destroy(gameObject);
+      }
    }
 }
