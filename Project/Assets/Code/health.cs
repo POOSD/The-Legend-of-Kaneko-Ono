@@ -12,13 +12,13 @@ public class health : MonoBehaviour
     public bool isRegenerating = false;
     public bool isDead = false;
     public bool damaged = false;
-    public RectTransform healthBarRect;
+    //public RectTransform healthBarRect;
 
     // Start is called before the first frame update
     void Start()
     {
-        healthBarRect = healthBarRect.GetComponent<RectTransform>();
-        healthBarRect.sizeDelta = new Vector2(100, 25);
+        //healthBarRect = healthBarRect.GetComponent<RectTransform>();
+        //healthBarRect.sizeDelta = new Vector2(100, 25);
         AdjustCurrentHealth();
     }
 
@@ -40,7 +40,7 @@ public class health : MonoBehaviour
         if (curHealth < 80)
         {
             curHealth += regen * Time.smoothDeltaTime;
-            healthBarRect.sizeDelta = new Vector2(curHealth, healthBarRect.sizeDelta.y);
+            //healthBarRect.sizeDelta = new Vector2(curHealth, healthBarRect.sizeDelta.y);
         }
 
     }

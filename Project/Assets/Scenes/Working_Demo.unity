@@ -1207,11 +1207,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   side: 0
-<<<<<<< HEAD
   enemy: {fileID: 1502895512}
-=======
-  enemy: {fileID: 0}
->>>>>>> f2e4f82b78f9cc55fbf520319ce6a52d87ac0010
   spawnRate: 2
   currentSpawner: {fileID: 0}
 --- !u!1 &1502895512
@@ -1226,12 +1222,9 @@ GameObject:
   - component: {fileID: 1502895513}
   - component: {fileID: 1502895515}
   - component: {fileID: 1502895516}
-<<<<<<< HEAD
   - component: {fileID: 1502895517}
   - component: {fileID: 1502895518}
   - component: {fileID: 1502895519}
-=======
->>>>>>> f2e4f82b78f9cc55fbf520319ce6a52d87ac0010
   m_Layer: 0
   m_Name: bigenemy-Recovered
   m_TagString: Untagged
@@ -1335,7 +1328,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
-<<<<<<< HEAD
   healthBarRect: {fileID: 0}
 --- !u!114 &1502895517
 MonoBehaviour:
@@ -1391,9 +1383,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   offsetPositionX: 1
-=======
-  healthBar: {fileID: 0}
->>>>>>> f2e4f82b78f9cc55fbf520319ce6a52d87ac0010
 --- !u!1 &1573717204
 GameObject:
   m_ObjectHideFlags: 0

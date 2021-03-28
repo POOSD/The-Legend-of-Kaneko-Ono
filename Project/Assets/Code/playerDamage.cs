@@ -44,7 +44,7 @@ public class playerDamage : MonoBehaviour
         if (playerHealth.curHealth > 0)
         {
             playerHealth.TakeDamage(attackDamage);
-            playerHealth.healthBarRect.sizeDelta = new Vector2(playerHealth.curHealth, playerHealth.healthBarRect.sizeDelta.y);
+            //playerHealth.healthBarRect.sizeDelta = new Vector2(playerHealth.curHealth, playerHealth.healthBarRect.sizeDelta.y);
         }
     }
 }
