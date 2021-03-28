@@ -16,7 +16,7 @@ public class normalShot : MonoBehaviour
    {
       curHealth = 100;
       rigidBody.velocity = transform.right * speed;
-      Destroy(gameObject, 2);
+      Destroy(gameObject, 2); // despawns after 2 secs in case it takes too long
    }
 
    void OnTriggerEnter2D(Collider2D hitInfo)
@@ -35,7 +35,7 @@ public class normalShot : MonoBehaviour
       var impact = Instantiate(impactEffect, transform.position, transform.rotation);
 
       Destroy(gameObject);
-      Destroy(impact, 1);
+      Destroy(impact, 1); // the impact is still there even after ending
       }
    }
 }
