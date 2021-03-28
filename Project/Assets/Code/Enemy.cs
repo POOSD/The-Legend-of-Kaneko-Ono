@@ -18,6 +18,9 @@ public class Enemy : MonoBehaviour
     {
         health -= damage;
 
+        // update health bar
+        healthBar.SetHealth(health);
+
         if (health <= 0)
         {
             Die();
