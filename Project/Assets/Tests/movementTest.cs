@@ -14,10 +14,6 @@ public class movementTest : MonoBehaviour
         GameObject shipObject2 = new GameObject();
         shipObject1.AddComponent<enemyMovement>();
         shipObject2.AddComponent<enemyMovement>();
-        shipObject1.AddComponent<Transform>();
-        shipObject2.AddComponent<Transform>();
-
-        yield return null;
 
         shipObject1.GetComponent<Transform>().position = new Vector3(-1, 1, 0);
         shipObject2.GetComponent<Transform>().position = new Vector3(0, 0, 0);
@@ -27,8 +23,8 @@ public class movementTest : MonoBehaviour
 
         shipObject2.GetComponent<enemyMovement>().Move();
 
-        yield return new WaitForSeconds(2);
-
         Assert.AreEqual(shipObject1.GetComponent<Transform>().transform, shipObject2.GetComponent<Transform>().transform);
+
+        yield return null;
    }
 }
