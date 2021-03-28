@@ -578,6 +578,7 @@ GameObject:
   - component: {fileID: 800041736}
   - component: {fileID: 800041735}
   - component: {fileID: 800041737}
+  - component: {fileID: 800041738}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -631,6 +632,22 @@ MonoBehaviour:
   scrollSpeed: 0
   playerVulnerability: 0
   bossVulnerability: 0
+--- !u!114 &800041738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800041734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3619c2b5b7ae9438f69a37dc15e07d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hackables: []
+  howManyHacked: 0
+  totalComponentCount: 0
+  player: {fileID: 0}
 --- !u!1 &813711448
 GameObject:
   m_ObjectHideFlags: 0
@@ -1565,7 +1582,6 @@ GameObject:
   - component: {fileID: 1759821497}
   - component: {fileID: 1759821499}
   - component: {fileID: 1759821504}
-  - component: {fileID: 1759821505}
   m_Layer: 0
   m_Name: enemyDrone
   m_TagString: Enemy
@@ -1747,23 +1763,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainCamera: {fileID: 1868602147}
---- !u!114 &1759821505
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1759821495}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa3619c2b5b7ae9438f69a37dc15e07d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hackables: []
-  howManyHacked: 0
-  totalComponentCount: 0
-  player: {fileID: 0}
-  isOriginal: 0
 --- !u!1 &1792723735
 GameObject:
   m_ObjectHideFlags: 0

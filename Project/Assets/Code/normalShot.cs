@@ -16,6 +16,7 @@ public class normalShot : MonoBehaviour
    {
       curHealth = 100;
       rigidBody.velocity = transform.right * speed;
+      Destroy(gameObject, 2);
    }
 
    void OnTriggerEnter2D(Collider2D hitInfo)
@@ -31,12 +32,10 @@ public class normalShot : MonoBehaviour
       Debug.Log(enemy.name + " " + damage + " " + enemy.health);
 
 
-      Instantiate(impactEffect, transform.position, transform.rotation);
+      var impact = Instantiate(impactEffect, transform.position, transform.rotation);
 
       Destroy(gameObject);
+      Destroy(impact, 1);
       }
-   }
-   void OnBecameInvisible() {
-      Destroy(this);
    }
 }
