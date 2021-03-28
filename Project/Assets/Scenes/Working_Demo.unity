@@ -198,6 +198,35 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 395649902}
   m_CullTransparentMesh: 1
+--- !u!1 &541436530 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4224871321672139114, guid: 61ad82eb3e8e27bd6bbe37c712e2b70d, type: 3}
+  m_PrefabInstance: {fileID: 4224871322187074907}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &541436532 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4224871321672139112, guid: 61ad82eb3e8e27bd6bbe37c712e2b70d, type: 3}
+  m_PrefabInstance: {fileID: 4224871322187074907}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 541436530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &541436533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 541436530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c3501ffda0e9354aa531e0b5b8b1740, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slider: {fileID: 541436532}
 --- !u!114 &800041738 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 9147978036210922305, guid: 033c18ba0428fbe9f962375b048e8c72, type: 3}
@@ -656,8 +685,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224871321509999590, guid: 61ad82eb3e8e27bd6bbe37c712e2b70d, type: 3}
       propertyPath: health
-      value: 32
+      value: 500
       objectReference: {fileID: 0}
+    - target: {fileID: 4224871321509999590, guid: 61ad82eb3e8e27bd6bbe37c712e2b70d, type: 3}
+      propertyPath: healthBar
+      value: 
+      objectReference: {fileID: 541436533}
     - target: {fileID: 4224871321509999596, guid: 61ad82eb3e8e27bd6bbe37c712e2b70d, type: 3}
       propertyPath: m_Name
       value: enemyDrone
