@@ -5,8 +5,8 @@ using UnityEngine;
 //trigger script
 public class health : MonoBehaviour
 {
-    public int maxHealth = 100;
-    public float curHealth = 100.0f;
+    public int maxHealth = 96;
+    public float curHealth = 128.0f;
     public float regen = 5.0f;
     public GameObject player;
     public bool isRegenerating = false;
@@ -24,20 +24,15 @@ public class health : MonoBehaviour
 
     public void AdjustCurrentHealth()
     {
-        if (curHealth <= 0)
+        if (curHealth <= 0.0f)
         {
-            curHealth = 0;
+            curHealth = 0.0f;
              // kill the player
             Destroy(player);
             FindObjectOfType<gameManager>().gameOver("lose");
         }
 
-        if (curHealth > maxHealth)
-        {
-            curHealth = 80;
-        }
-
-        if (curHealth < 80)
+        if (curHealth < 96.0f)
         {
             curHealth += regen * Time.smoothDeltaTime;
             //healthBarRect.sizeDelta = new Vector2(curHealth, healthBarRect.sizeDelta.y);
