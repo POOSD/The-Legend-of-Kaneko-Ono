@@ -41,6 +41,9 @@ public class health : MonoBehaviour
         if (curHealth < 96.0f)
         {
             curHealth += regen * Time.smoothDeltaTime;
+            
+            // update health bar
+            healthBar.SetHealth(curHealth);
             //healthBarRect.sizeDelta = new Vector2(curHealth, healthBarRect.sizeDelta.y);
         }
 
