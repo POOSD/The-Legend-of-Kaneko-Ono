@@ -1207,7 +1207,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   side: 0
+<<<<<<< HEAD
+  enemy: {fileID: 1502895512}
+=======
   enemy: {fileID: 0}
+>>>>>>> f2e4f82b78f9cc55fbf520319ce6a52d87ac0010
   spawnRate: 2
   currentSpawner: {fileID: 0}
 --- !u!1 &1502895512
@@ -1222,6 +1226,12 @@ GameObject:
   - component: {fileID: 1502895513}
   - component: {fileID: 1502895515}
   - component: {fileID: 1502895516}
+<<<<<<< HEAD
+  - component: {fileID: 1502895517}
+  - component: {fileID: 1502895518}
+  - component: {fileID: 1502895519}
+=======
+>>>>>>> f2e4f82b78f9cc55fbf520319ce6a52d87ac0010
   m_Layer: 0
   m_Name: bigenemy-Recovered
   m_TagString: Untagged
@@ -1325,7 +1335,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
+<<<<<<< HEAD
+  healthBarRect: {fileID: 0}
+--- !u!114 &1502895517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502895512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfdeba43e02eac45b0a19e558761f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActive: 1
+  componentName: 
+  firePoint: {fileID: 675212077}
+  curPosition: {fileID: 214486954}
+  enemyBullet_prefab: {fileID: 1617282520814581088, guid: b47f1eaec68eb1d4e8643cb1ae65c0fb, type: 3}
+  shootingTime: 0
+  fireRate: 1000
+  shootingPower: 5
+--- !u!50 &1502895518
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502895512}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1502895519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502895512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f456ec9b60702ee40a99f3ecde0a3e95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetPositionX: 1
+=======
   healthBar: {fileID: 0}
+>>>>>>> f2e4f82b78f9cc55fbf520319ce6a52d87ac0010
 --- !u!1 &1573717204
 GameObject:
   m_ObjectHideFlags: 0
