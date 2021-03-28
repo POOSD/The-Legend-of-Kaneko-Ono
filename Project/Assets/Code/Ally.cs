@@ -25,3 +25,4 @@ public class Ally : MonoBehaviour
       Destroy(gameObject);
       Environmental_Variables_Container.numberEnemiesKilled+=1;
    }
+}
