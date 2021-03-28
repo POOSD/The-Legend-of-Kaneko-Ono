@@ -758,6 +758,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 9147978036210922305, guid: 033c18ba0428fbe9f962375b048e8c72, type: 3}
+      propertyPath: hackTime
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9147978036210922307, guid: 033c18ba0428fbe9f962375b048e8c72, type: 3}
       propertyPath: m_RootOrder
       value: 1
