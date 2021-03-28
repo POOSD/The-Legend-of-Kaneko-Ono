@@ -5,7 +5,7 @@ using UnityEngine;
 //trigger script
 public class health : MonoBehaviour
 {
-    public int maxHealth = 100;
+    public float maxHealth = 128;
     public float curHealth = 100.0f;
     public float regen = 5.0f;
     public GameObject player;
@@ -14,9 +14,15 @@ public class health : MonoBehaviour
     public bool damaged = false;
     //public RectTransform healthBarRect;
 
+    public HealthBar healthBar;
+
     // Start is called before the first frame update
     void Start()
     {
+        // set healthbar
+        curHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
+
         //healthBarRect = healthBarRect.GetComponent<RectTransform>();
         //healthBarRect.sizeDelta = new Vector2(100, 25);
         AdjustCurrentHealth();
@@ -53,13 +59,16 @@ public class health : MonoBehaviour
         {
             AdjustCurrentHealth();
         }
-        
+
     }
     public void TakeDamage(float amount)
     {
         damaged = true;
         // current health decreases by the damage value
         curHealth -= amount;
+
+        // update health bar
+        healthBar.SetHealth(curHealth);
     }
-    
+
 }

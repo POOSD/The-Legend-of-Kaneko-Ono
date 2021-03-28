@@ -234,6 +234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
+  healthBar: {fileID: 0}
 --- !u!1 &6386342347544775453
 GameObject:
   m_ObjectHideFlags: 0

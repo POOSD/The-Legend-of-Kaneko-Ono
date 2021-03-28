@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
    public int health = 100;
    public GameObject deathEffect;
 
-
+   public HealthBar healthBar;
 
 //healthBarRect.sizeDelta = new Vector2(0.96f, 0.19f);
 
@@ -17,6 +17,7 @@ public class Player : MonoBehaviour
    public void TakeDamage(int damage)
    {
       health -= damage;
+      healthBar.SetHealth(health);
 
       if (health <= 0)
       {
@@ -27,7 +28,7 @@ public class Player : MonoBehaviour
    void Die()
    {
       Instantiate(deathEffect, transform.position, Quaternion.identity);
-      
+
       //update environment variables accordingly
    }
 
