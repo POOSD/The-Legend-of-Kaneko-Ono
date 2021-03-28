@@ -38,7 +38,7 @@ public class Environmental_Variables_Container : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(numberEnemiesKilled>=25)
+        if(numberEnemiesKilled>=15)
         {
         FindObjectOfType<gameManager>().gameOver("win");
         }
