@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &480034647
+--- !u!1 &36319469686661002
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,54 +8,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 480034648}
+  - component: {fileID: 261428589175888217}
   m_Layer: 0
-  m_Name: position
+  m_Name: firingPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &480034648
+--- !u!4 &261428589175888217
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 480034647}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.47, y: -0.0666668, z: 1}
-  m_LocalScale: {x: 7.1739993, y: 6.8007326, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1660625161332652789}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1029848007
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1029848008}
-  m_Layer: 0
-  m_Name: target
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1029848008
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1029848007}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -21.17, y: -0.0666668, z: 1}
-  m_LocalScale: {x: 7.1739993, y: 6.8007326, z: 1}
+  m_GameObject: {fileID: 36319469686661002}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.31, y: -0.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1660625161332652789}
   m_RootOrder: 0
@@ -93,8 +63,7 @@ Transform:
   m_LocalPosition: {x: -1.31, y: 0.46, z: 0}
   m_LocalScale: {x: 0.15, y: 0.15, z: 1}
   m_Children:
-  - {fileID: 1029848008}
-  - {fileID: 480034648}
+  - {fileID: 261428589175888217}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -162,7 +131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24228f1d554d62402b4c0d3b50e0456a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 64
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
   healthBar: {fileID: 0}
 --- !u!114 &1660625161332652786
@@ -179,12 +148,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isActive: 1
   componentName: 
-  firePoint: {fileID: 1029848008}
-  curPosition: {fileID: 480034648}
+  firePoint: {fileID: 261428589175888217}
   enemyBullet_prefab: {fileID: 1617282520814581088, guid: b47f1eaec68eb1d4e8643cb1ae65c0fb, type: 3}
-  shootingTime: 0
-  fireRate: 1000
-  shootingPower: 5
+  previousTime: 0
+  deltaTime: 0
+  delayTime: 3
 --- !u!50 &1660625161332652785
 Rigidbody2D:
   serializedVersion: 4

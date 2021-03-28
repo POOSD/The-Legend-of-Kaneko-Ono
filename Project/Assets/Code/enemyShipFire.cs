@@ -5,11 +5,10 @@ using UnityEngine;
 public class enemyShipFire : ShipComponent
 {
    public Transform firePoint;
-   public Transform curPosition;
    public GameObject enemyBullet_prefab;
-   public float shootingTime;
-   public float fireRate = 1000f; // fire every 3 seconds
-   public float shootingPower = 20f;
+   public float previousTime;
+   public float deltaTime;
+   public float delayTime;
 
     void Start()
     {
@@ -20,19 +19,17 @@ public class enemyShipFire : ShipComponent
     // Update is called once per frame
     void Update()
    {
+      deltaTime += Time.time - previousTime;
+      if (deltaTime >= delayTime)
+      {
         Shoot();
+        deltaTime = 0;
+      }
+      previousTime = Time.time;
    }
 
    void Shoot()
    {
-       if (Time.time > shootingTime)
-        {
-            shootingTime = Time.time + fireRate / 1000; //set the local var. to current time of shooting
-            Vector2 myPos = new Vector2(curPosition.position.x, curPosition.position.y); //our curr position is where our muzzle points
-            GameObject projectile = Instantiate(enemyBullet_prefab, firePoint.position, firePoint.rotation); //create our bullet
-            Vector2 direction = (Vector2)firePoint.position - myPos; //get the direction to the target
-            projectile.GetComponent<Rigidbody2D>().velocity = direction * shootingPower; //shoot the bullet
-        }
-        
+      Instantiate(enemyBullet_prefab, firePoint.position, firePoint.rotation); //create our bullet       
    }
 }
