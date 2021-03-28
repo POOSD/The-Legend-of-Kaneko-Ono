@@ -6,8 +6,11 @@ using UnityEngine;
 public class HackManager : MonoBehaviour
 {
     public List<ShipComponent> hackables;
-    public int howManyHacked, totalComponentCount;
+    public int howManyHacked = 0;
+    public int howManyHacking = 0;
+    public int totalComponentCount = 0;
     public GameObject player;
+    public float unhackRegenTime = 0.0f;
 
     void getHackables()
     {
@@ -72,8 +75,6 @@ public class HackManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        howManyHacked = 0;
-        totalComponentCount = 0;
         getHackables();
         player = GameObject.FindWithTag("Player");
     }
