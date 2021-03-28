@@ -8,11 +8,11 @@ public class HackManager : MonoBehaviour
     public List<ShipComponent> hackables;
     public int howManyHacked, totalComponentCount;
     public GameObject player;
-    public bool isOriginal;
 
     void getHackables()
     {
         // hackNext() will hack in the order these are added
+        // add stuff here when you want to add things to be hacked
         var player = GameObject.Find("player");
         hackables.Add(player.GetComponent<WeaponPrototype>());
         hackables.Add(player.GetComponent<Player_Movement>());
@@ -56,25 +56,25 @@ public class HackManager : MonoBehaviour
             }
         }
     }
+// for the regen mechanic
+    void unHackMostRecent() {
+        for (int i = hackables.Capacity - 1; i >= 0; i++)
+        {
+            if(!hackables[i].isActive)
+            {
+                hackables[i].isActive = true;
+                howManyHacked--;
+                break;
+            }
+        }
+    }
 
     // Start is called before the first frame update
     void Start()
     {
-        isOriginal = (hackables.Capacity == 0);
-        if (isOriginal) {
-            howManyHacked = 0;
-            totalComponentCount = 0;
-            getHackables();
-        }
+        howManyHacked = 0;
+        totalComponentCount = 0;
+        getHackables();
         player = GameObject.FindWithTag("Player");
-    }
-
-    private void OnTriggerEnter2D(Collider2D col)
-    {
-        if (col.gameObject == player)
-        {
-            Debug.Log("Oops, look like you've been hacked!");
-            hackNext();
-        }
     }
 }
