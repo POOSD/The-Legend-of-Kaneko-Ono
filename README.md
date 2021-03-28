@@ -186,6 +186,6 @@ Megan Diehl - User Story 030, created User Story 032, added enemy movement
 
 ## Task Allocation
 
-Member 1 - main tasking
+Megan Diehl - Helped with UID 037 (enemy ship shooting), completed UID 008 (enemy movement), helped created movementTest.cs to test movement, organized meetings, created manual tests for enemy ship movement and enemy ship firing.
 
 Member 2 - main tasking

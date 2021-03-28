@@ -117,5 +117,15 @@
 | 004 | Click Back Button. | Screen changes back to to main menu screen.|
 | 005 | Click Play button. | Screen changes to updated current demo gameplay screen with previous sprint's functionalities. |
 
+# Enemy Ship Movement (UID 008):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game window pops up/game starts up in Unity. Start game screen shows up. |
+| 002 | Press "play".  | The enemy ships spawn and moves left infinitely.|
 
-
+# Enemy Ship Shooting (UID 037):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game window pops up/game starts up in Unity. Start game screen shows up. |
+| 002 | Press "play".  | The enemy ships spawn and moves left infinitely, shooting magenta bullet sprites every second.|
+| 003 | The sprite hits the player | The player's health decreases, taking on damage.|
