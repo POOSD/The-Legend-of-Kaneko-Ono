@@ -16,7 +16,6 @@ GameObject:
   - component: {fileID: 6386342347285314466}
   - component: {fileID: 6386342347285314467}
   - component: {fileID: 6386342347285314470}
-  - component: {fileID: 6241083951555897329}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -149,6 +148,7 @@ MonoBehaviour:
   isRegenerating: 0
   isDead: 0
   damaged: 0
+  healthBar: {fileID: 0}
 --- !u!114 &6386342347285314466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -220,21 +220,6 @@ PolygonCollider2D:
       - {x: 0.044999998, y: -0.19}
       - {x: 0.055, y: -0.16}
       - {x: 0.445, y: -0.16}
---- !u!114 &6241083951555897329
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6386342347285314475}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22e836b2ad8014d40ad75f52fc31b213, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 100
-  deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
-  healthBar: {fileID: 0}
 --- !u!1 &6386342347544775453
 GameObject:
   m_ObjectHideFlags: 0

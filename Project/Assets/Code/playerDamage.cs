@@ -11,7 +11,6 @@ public class playerDamage : MonoBehaviour
     private health playerHealth;
 
     // Start is called before the first frame update
-    // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindWithTag("Player");
@@ -44,7 +43,6 @@ public class playerDamage : MonoBehaviour
         if (playerHealth.curHealth > 0)
         {
             playerHealth.TakeDamage(attackDamage);
-            //playerHealth.healthBarRect.sizeDelta = new Vector2(playerHealth.curHealth, playerHealth.healthBarRect.sizeDelta.y);
         }
     }
 }

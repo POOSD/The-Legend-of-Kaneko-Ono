@@ -9,12 +9,6 @@ public class Ally : MonoBehaviour
    public GameObject deathEffect;
    public RectTransform healthBarRect;
 
-
-
-//healthBarRect.sizeDelta = new Vector2(0.96f, 0.19f);
-
-//healthBarRect.sizeDelta = new Vector2(0.96f - (curHealth / 100), healthBarRect.sizeDelta.y);
-
    public void TakeDamage(int damage)
    {
       health -= damage;
@@ -31,9 +25,3 @@ public class Ally : MonoBehaviour
       Destroy(gameObject);
       Environmental_Variables_Container.numberEnemiesKilled+=1;
    }
-
-//    internal void TakeDamage(float damage)
-//    {
-//        throw new NotImplementedException();
-//    }
-}

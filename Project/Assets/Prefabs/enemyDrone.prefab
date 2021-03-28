@@ -350,6 +350,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 301581fa3c7497a4c9a8d67ce6dc0f3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  valueX: 0
+  valueY: 0
   pointSelection: 1
 --- !u!114 &4224871321509999590
 MonoBehaviour:
@@ -363,7 +365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24228f1d554d62402b4c0d3b50e0456a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 500
+  health: 64
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
   healthBar: {fileID: 0}
 --- !u!222 &4224871321509999589
@@ -521,9 +523,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 500
+  m_MaxValue: 64
   m_WholeNumbers: 0
-  m_Value: 500
+  m_Value: 64
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

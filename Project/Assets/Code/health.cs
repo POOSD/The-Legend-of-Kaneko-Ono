@@ -12,7 +12,6 @@ public class health : MonoBehaviour
     public bool isRegenerating = false;
     public bool isDead = false;
     public bool damaged = false;
-    //public RectTransform healthBarRect;
 
     public HealthBar healthBar;
 
@@ -22,9 +21,6 @@ public class health : MonoBehaviour
         // set healthbar
         curHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
-
-        //healthBarRect = healthBarRect.GetComponent<RectTransform>();
-        //healthBarRect.sizeDelta = new Vector2(100, 25);
         AdjustCurrentHealth();
     }
 
@@ -44,7 +40,6 @@ public class health : MonoBehaviour
             
             // update health bar
             healthBar.SetHealth(curHealth);
-            //healthBarRect.sizeDelta = new Vector2(curHealth, healthBarRect.sizeDelta.y);
         }
 
     }
