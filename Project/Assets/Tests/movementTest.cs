@@ -7,26 +7,28 @@ using UnityEngine.TestTools;
 public class movementTest : MonoBehaviour
 {
    [UnityTest]
-   public IEnumerator movementTest()
+   public IEnumerator movementTestOne()
    {
        // Generate a ship object
         GameObject shipObject1 = new GameObject();
         GameObject shipObject2 = new GameObject();
         shipObject1.AddComponent<enemyMovement>();
         shipObject2.AddComponent<enemyMovement>();
+        shipObject1.AddComponent<Transform>();
+        shipObject2.AddComponent<Transform>();
 
-        shipObject1.position.transform.x = -1;
-        shipObject1.position.transform.y = 1;
-        shipObject1.position.transform.z = 0;
+        yield return null;
 
-        shipObject2.position.transform.x = 0;
-        shipObject2.position.transform.y = 0;
-        shipObject2.position.transform.z = 0;
-        shipObject2.valueX = -1;
-        shipObject2.valueY = 1;
+        shipObject1.GetComponent<Transform>().position = new Vector3(-1, 1, 0);
+        shipObject2.GetComponent<Transform>().position = new Vector3(0, 0, 0);
+        
+        shipObject2.GetComponent<enemyMovement>().valueX = -1;
+        shipObject2.GetComponent<enemyMovement>().valueY = 1;
 
-        shipObject2.Move();
+        shipObject2.GetComponent<enemyMovement>().Move();
 
-        Assert.AreEqual(shipObject1.position.transform, shipObject2.position.transform);
+        yield return new WaitForSeconds(2);
 
+        Assert.AreEqual(shipObject1.GetComponent<Transform>().transform, shipObject2.GetComponent<Transform>().transform);
+   }
 }

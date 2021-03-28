@@ -7,7 +7,7 @@ public class enemyMovement : MonoBehaviour
     private Vector3 destination;
     private Vector3 currentPoint;
     float min = 0.0f, max = 5.0f;
-    float valueX, valueY;
+    public float valueX, valueY;
     private float moveSpeed = 0.5f;
     public int pointSelection;
     //public GameObject enemy;
@@ -41,7 +41,7 @@ public class enemyMovement : MonoBehaviour
         
     }
 
-    void Move()
+    public void Move()
     {
         
         this.transform.position = Vector3.MoveTowards(currentPoint, destination, Time.deltaTime * moveSpeed);
