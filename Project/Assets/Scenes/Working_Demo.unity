@@ -465,10 +465,18 @@ PrefabInstance:
       propertyPath: enemy
       value: 
       objectReference: {fileID: 1759821495}
+    - target: {fileID: 4542301348816786885, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4542301348816786886, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
       propertyPath: enemy
       value: 
       objectReference: {fileID: 1502895512}
+    - target: {fileID: 4542301348816786886, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4542301348816786887, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
       propertyPath: enemy
       value: 
