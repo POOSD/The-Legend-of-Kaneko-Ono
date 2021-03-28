@@ -646,8 +646,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hackables: []
   howManyHacked: 0
+  howManyHacking: 0
   totalComponentCount: 0
+  hackTime: 3
+  unhackTime: 3
   player: {fileID: 0}
+  hackDegenTime: 0
+  unhackRegenTime: 0
 --- !u!1 &813711448
 GameObject:
   m_ObjectHideFlags: 0
@@ -1328,7 +1333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathEffect: {fileID: 2086715392676226505, guid: 304f7198d2047b10ea3d964205f0d955, type: 3}
-  healthBarRect: {fileID: 0}
+  healthBar: {fileID: 0}
 --- !u!114 &1502895517
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1343,8 +1348,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isActive: 1
   componentName: 
-  firePoint: {fileID: 675212077}
-  curPosition: {fileID: 214486954}
+  firePoint: {fileID: 1502895514}
+  curPosition: {fileID: 1502895514}
   enemyBullet_prefab: {fileID: 1617282520814581088, guid: b47f1eaec68eb1d4e8643cb1ae65c0fb, type: 3}
   shootingTime: 0
   fireRate: 1000
@@ -1639,6 +1644,7 @@ GameObject:
   - component: {fileID: 1759821497}
   - component: {fileID: 1759821499}
   - component: {fileID: 1759821504}
+  - component: {fileID: 1759821505}
   m_Layer: 0
   m_Name: enemyDrone
   m_TagString: Enemy
@@ -1732,7 +1738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeBetweenAttacks: 0.5
-  attackDamage: 50
+  attackDamage: 0
   player: {fileID: 2146036631}
 --- !u!58 &1759821499
 CircleCollider2D:
@@ -1820,6 +1826,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainCamera: {fileID: 1868602147}
+--- !u!114 &1759821505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759821495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f0fc6e6db556e4fbd9e064de491c63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 2146036631}
+  manager: {fileID: 800041738}
 --- !u!1 &1792723735
 GameObject:
   m_ObjectHideFlags: 0
@@ -2497,7 +2517,6 @@ MonoBehaviour:
   isRegenerating: 0
   isDead: 0
   damaged: 0
-  healthBarRect: {fileID: 1276684975}
 --- !u!114 &2146036638
 MonoBehaviour:
   m_ObjectHideFlags: 0

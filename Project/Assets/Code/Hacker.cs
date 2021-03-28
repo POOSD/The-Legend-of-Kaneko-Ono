@@ -5,24 +5,24 @@ using UnityEngine;
 
 public class Hacker : MonoBehaviour
 {
-    public GameObject player = GameObject.Find("player");
-    public GameObject manager = GameObject.Find("HackManager");
-    public bool hackTimer = false;
-    public float hackDeadline;
-
-    void Update() {
-        if (hackTimer && Time.time >= hackDeadline) {
-            
-        }
+    public GameObject player;
+    public HackManager manager;
+    void Start() {
+        player = GameObject.FindWithTag("Player");
+        manager = GameObject.Find("GameManager").GetComponent<HackManager>();
     }
     void OnTriggerEnter2D(Collider2D whatWasHit) {
-        if (player == whatWasHit)
-            hackTimer = true;
+        Debug.Log("Hello!");
+        if (player == whatWasHit.gameObject) {
+            Debug.Log("Yep, that's the player!");
+            manager.howManyHacking++;
+        }
     }
     void OnTriggerExit2D(Collider2D whatWasGone) {
-        if (player == whatWasGone) {
-            hackDeadline = Time.time + 10.0f;
-            hackTimer = false;
+        Debug.Log("Goodbye!");
+        if (player == whatWasGone.gameObject) {
+            Debug.Log("Yep, that was the player.");
+            manager.howManyHacking--;
         }
     }
 }
