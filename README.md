@@ -192,5 +192,6 @@ Shir Nava - Completed UID 033 and 039, Velocity and Burndown charts, updated UI 
 
 Daniel Trimble - Numerous bug fixes.
 
+Thomas Smith - Expanded UID 035 into fully implemented hacking mechanic & did a couple automated tests, revamped class diagram, helped fix enemy bullet mechanics
 
 Member 2 - main tasking
