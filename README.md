@@ -188,4 +188,7 @@ Megan Diehl - User Story 030, created User Story 032, added enemy movement
 
 Megan Diehl - Helped with UID 037 (enemy ship shooting), completed UID 008 (enemy movement), helped created movementTest.cs to test movement, organized meetings, created manual tests for enemy ship movement and enemy ship firing.
 
+Shir Nava - Completed UID 033 and 039, Velocity and Burndown charts, updated UI diagram, updated trello, helped fix bugs, Manual Tests, Presentation, Manual tests for UID 033 and 039.
+
+
 Member 2 - main tasking
