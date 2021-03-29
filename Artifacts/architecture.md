@@ -54,11 +54,25 @@ UML Class Diagram:
 
 | Class Name  | User Story |
 |-------------|------------|
-| Ship        |     000    |
-| Drone       |     000    |
-| NPC         |     002    |
-| Player      |     011    |
-| Character   |     005    |
+| WeaponsPrototype|     005    |
+| PlayerMovement       |     009    |
+| isBounded         |     027    |
+| Health      |     023    |
+| ShipComponent   |     002    |
+| enemyMovement   |     005    |
+| Enemy   |     012    |
+| triggerHealth   |     025    |
+| enemyShipMovement   |     030    |
+| enemyShipFire   |     029    |
+| Game Manager   |     026    |
+| Environmental_Variables_Containter   |  015    |
+| gameManager   | 014 |
+| HackManager   | 035 |
+| Spawner   | 039 |
+| Main Menu   | 011, 029 |
+| End Screen   | 014, 033 |
+| Settings Screen   | 013 |
+| Background   | 019 |
 
 As this is a bullet hell game with a cyberpunk theme, most of the moving parts of this game are ships, with the exception of drones with more specified purposes.
 
