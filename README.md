@@ -190,5 +190,7 @@ Megan Diehl - Helped with UID 037 (enemy ship shooting), completed UID 008 (enem
 
 Shir Nava - Completed UID 033 and 039, Velocity and Burndown charts, updated UI diagram, updated trello, helped fix bugs, Manual Tests, Presentation, Manual tests for UID 033 and 039.
 
+Daniel Trimble - Numerous bug fixes.
+
 
 Member 2 - main tasking
