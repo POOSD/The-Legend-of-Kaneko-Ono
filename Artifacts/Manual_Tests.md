@@ -117,6 +117,12 @@
 | 004 | Click Back Button. | Screen changes back to to main menu screen.|
 | 005 | Click Play button. | Screen changes to updated current demo gameplay screen with previous sprint's functionalities. |
 
+# Enemy Spawning (UID 039):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game window pops up/game starts up in Unity. Start game menu screen shows up. |
+| 002 | Press "play".  | The enemy drones and ships spawn infinitely across the screen (to the left of the player position offscreen).|
+
 # Enemy Ship Movement (UID 008):
 | No. | Steps to Reproduce | Expected Behavior |
 |-----|--------------------|-------------------|
@@ -129,3 +135,13 @@
 | 001 | Launch the game.  | Game window pops up/game starts up in Unity. Start game screen shows up. |
 | 002 | Press "play".  | The enemy ships spawn and moves left infinitely, shooting magenta bullet sprites every second.|
 | 003 | The sprite hits the player | The player's health decreases, taking on damage.|
+
+# Game end screens win and lose condition (UID 033):
+| No. | Steps to Reproduce | Expected Behavior |
+|-----|--------------------|-------------------|
+| 001 | Launch the game.  | Game window pops up/game starts up in Unity. Start game menu screen shows up. |
+| 002 | Press "play".  | Gameplay screen shows up. |
+| 003 | Play game, defeat 15 enemies (use space bar/mouse to shoot at them and W/A/S/D to move). | Game won screen shows up. |
+| 004 | Press "play again" button. | Gameplay screen shows up. |
+| 005 | Play game (use space bar/mouse to shoot at them and W/A/S/D to move), get hit by bullets multiple times until 0 health. | Game over screen shows up. |
+

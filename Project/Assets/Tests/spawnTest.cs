@@ -12,9 +12,11 @@ public class spawnTest
     {
         // Use the Assert class to test conditions
         var environ = new GameObject().AddComponent<Environmental_Variables_Container>();
-        var spawner = new GameObject().AddComponent<droneSpawner>();
+        var enemy = new GameObject();
+        var spawner = new GameObject();
+        spawner.AddComponent<droneSpawner>();
         // testing enemy spawning
-        spawner.side = 0;
+        spawner.GetComponent<droneSpawner>().side = 0;
     }
 
     // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use

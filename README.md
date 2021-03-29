@@ -188,4 +188,10 @@ Megan Diehl - User Story 030, created User Story 032, added enemy movement
 
 Megan Diehl - Helped with UID 037 (enemy ship shooting), completed UID 008 (enemy movement), helped created movementTest.cs to test movement, organized meetings, created manual tests for enemy ship movement and enemy ship firing.
 
-Member 2 - main tasking
+Shir Nava - Completed UID 033 and 039, Velocity and Burndown charts, updated UI diagram, updated trello, helped fix bugs, Manual Tests, Presentation, Manual tests for UID 033 and 039.
+
+Daniel Trimble - Helped with UID 032, UID 037, Numerous bug fixes both with this Sprints features and previously implemented features which broke and needed to be rebuilt or patched, recorded the demo, helped organize the presentation.
+
+Thomas Smith - Expanded UID 035 into fully implemented hacking mechanic & did a couple automated tests, revamped class diagram, helped fix enemy bullet mechanics
+
+Jake DiClemente - Created and completed user story 040. Health bars now completely functional as well as many sounds.

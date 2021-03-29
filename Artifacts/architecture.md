@@ -49,16 +49,30 @@ Our Component Diagram illustrates how the user interface window facilitates the 
 # Code Design
 
 UML Class Diagram:
-![UML Diagram - UML_Class_Diagram_Example (3)](https://drive.google.com/uc?export=view&id=1-Hr5A38_SSsok_6KmXngsYMZQmgVB3bg)
+![UML Diagram - UML_Class_Diagram_Example (3)](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/diagramAlt1.png)
 
 
 | Class Name  | User Story |
 |-------------|------------|
-| Ship        |     000    |
-| Drone       |     000    |
-| NPC         |     002    |
-| Player      |     011    |
-| Character   |     005    |
+| WeaponsPrototype|     005    |
+| PlayerMovement       |     009    |
+| isBounded         |     027    |
+| Health      |     023    |
+| ShipComponent   |     002    |
+| enemyMovement   |     005    |
+| Enemy   |     012    |
+| triggerHealth   |     025    |
+| enemyShipMovement   |     030    |
+| enemyShipFire   |     029    |
+| Game Manager   |     026    |
+| Environmental_Variables_Containter   |  015    |
+| gameManager   | 014 |
+| HackManager   | 035 |
+| Spawner   | 039 |
+| Main Menu   | 011, 029 |
+| End Screen   | 014, 033 |
+| Settings Screen   | 013 |
+| Background   | 019 |
 
 As this is a bullet hell game with a cyberpunk theme, most of the moving parts of this game are ships, with the exception of drones with more specified purposes.
 
@@ -71,9 +85,6 @@ The Drone class is an alternative entity, less focused around being a typical sh
 The Ally/Enemy classes simply represent the different sides of the conflict, excluding the player themselves, which is why they're under NPC.
 
 The "Character" class, of course, represents the playable character.
-
-![UML Diagram - UML Activity Diagram](https://drive.google.com/uc?export=view&id=1rLM5g_tshyV8lvzRRZnQTtVwEwmDprJU)
-This is an activity diagram explaining the flow of activities during gameplay. As the player goes through the game, they are met with enemies they must defeat, as well as hacking "zones" they must avoid. If their health reaches 0, they die, but if they reach an ally drone they can partially heal them, allowing them to continue on in the game. To win the game, you must defeat the enemies and reach the island where the resistance headquarters are.
 
 
 # Data Design
@@ -88,7 +99,7 @@ We're also sticking to principles like SOLID and DRY, of course.
 # User Interface Design
 
 UML UI Diagram:
-![UML Diagram - UI_Diagram (7)](https://user-images.githubusercontent.com/47250709/111877320-2df4d400-8979-11eb-85c0-ef1d662d7c0d.png)
+![UML Diagram - UI_Diagram (8)](https://user-images.githubusercontent.com/47250709/112773518-537e7f00-9004-11eb-9d5b-af6b27c5d91a.png)
 
 
 | Screen Name | User Story |
