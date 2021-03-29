@@ -194,4 +194,4 @@ Daniel Trimble - Numerous bug fixes.
 
 Thomas Smith - Expanded UID 035 into fully implemented hacking mechanic & did a couple automated tests, revamped class diagram, helped fix enemy bullet mechanics
 
-Member 2 - main tasking
+Jake DiClemente - Created and completed user story 040. Health bars now completely functional as well as many sounds.
