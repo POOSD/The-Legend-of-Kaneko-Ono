@@ -5,8 +5,8 @@ using UnityEngine;
 //trigger script
 public class health : MonoBehaviour
 {
-    public float maxHealth = 128;
-    public float curHealth = 100.0f;
+    public float maximumHealth;
+    public float currentHealth;
     public float regen = 5.0f;
     public GameObject player;
     public bool isRegenerating = false;
@@ -19,27 +19,27 @@ public class health : MonoBehaviour
     void Start()
     {
         // set healthbar
-        curHealth = maxHealth;
-        healthBar.SetMaxHealth(maxHealth);
+        currentHealth = maximumHealth;
+        healthBar.SetMaxHealth(maximumHealth);
         AdjustCurrentHealth();
     }
 
     public void AdjustCurrentHealth()
     {
-        if (curHealth <= 0.0f)
+        if (currentHealth <= 0.0f)
         {
-            curHealth = 0.0f;
+            currentHealth = 0.0f;
              // kill the player
             Destroy(player);
             FindObjectOfType<gameManager>().gameOver("lose");
         }
 
-        if (curHealth < 96.0f)
+        if (currentHealth < 96.0f)
         {
-            curHealth += regen * Time.smoothDeltaTime;
+            currentHealth += regen * Time.smoothDeltaTime;
             
             // update health bar
-            healthBar.SetHealth(curHealth);
+            healthBar.SetHealth(currentHealth);
         }
 
     }
@@ -58,10 +58,10 @@ public class health : MonoBehaviour
     {
         damaged = true;
         // current health decreases by the damage value
-        curHealth -= amount;
+        currentHealth -= amount;
 
         // update health bar
-        healthBar.SetHealth(curHealth);
+        healthBar.SetHealth(currentHealth);
     }
 
 }

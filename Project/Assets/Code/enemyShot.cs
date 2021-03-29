@@ -20,12 +20,12 @@ public class enemyShot : MonoBehaviour
    {
         health health = hitInfo.GetComponent<health>();
         if (health != null){
-            if (health.curHealth > 0)
+            if (health.currentHealth > 0)
             {
                 health.TakeDamage(damage);
             }
 
-            Debug.Log(health.name + " " + damage + " " + health.curHealth);
+            Debug.Log(health.name + " " + damage + " " + health.currentHealth);
 
             var impact = Instantiate(impactEffect, transform.position, transform.rotation);
 

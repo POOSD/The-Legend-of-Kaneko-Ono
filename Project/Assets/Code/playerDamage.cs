@@ -29,7 +29,7 @@ public class playerDamage : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        if (playerHealth.curHealth <= 0)
+        if (playerHealth.currentHealth <= 0)
         {
             // kill the player
             Destroy(gameObject);
@@ -40,7 +40,7 @@ public class playerDamage : MonoBehaviour
     void Attack()
     {
         timer = 0f;
-        if (playerHealth.curHealth > 0)
+        if (playerHealth.currentHealth > 0)
         {
             playerHealth.TakeDamage(attackDamage);
         }

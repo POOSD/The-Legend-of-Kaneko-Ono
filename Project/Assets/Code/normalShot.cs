@@ -5,7 +5,7 @@ using UnityEngine;
 public class normalShot : MonoBehaviour
 {
    public float speed = 100f;
-   public int damage = 50;
+   public int damage;
    public Rigidbody2D rigidBody;
    public GameObject impactEffect;
 
@@ -20,12 +20,12 @@ public class normalShot : MonoBehaviour
    {
       Enemy enemy = hitInfo.GetComponent<Enemy>();
       if(enemy != null){
-        if (enemy.health > 0)
+        if (enemy.currentHealth > 0)
         {
            enemy.TakeDamage(damage);
         }
 
-      Debug.Log(enemy.name + " " + damage + " " + enemy.health);
+      Debug.Log(enemy.name + " " + damage + " " + enemy.currentHealth);
 
 
       var impact = Instantiate(impactEffect, transform.position, transform.rotation);

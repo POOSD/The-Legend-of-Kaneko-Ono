@@ -12,13 +12,13 @@ public class boundstest
     {
         // Use the Assert class to test conditions
         var player1 = new GameObject().AddComponent<health>();
-        Assert.AreEqual(player1.maxHealth, 100);
+        Assert.AreEqual(player1.maximumHealth, 100);
 
         var player2 = new GameObject().AddComponent<Enemy>();
-        Assert.AreEqual(player2.health, 100);
+        Assert.AreEqual(player2.currentHealth, 100);
 
         player1.TakeDamage(20);
-        Assert.IsTrue(player2.health < 100);
+        Assert.IsTrue(player2.currentHealth < 100);
     }
 
     // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use
