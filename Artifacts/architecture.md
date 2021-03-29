@@ -72,9 +72,6 @@ The Ally/Enemy classes simply represent the different sides of the conflict, exc
 
 The "Character" class, of course, represents the playable character.
 
-![UML Diagram - UML Activity Diagram](https://drive.google.com/uc?export=view&id=1rLM5g_tshyV8lvzRRZnQTtVwEwmDprJU)
-This is an activity diagram explaining the flow of activities during gameplay. As the player goes through the game, they are met with enemies they must defeat, as well as hacking "zones" they must avoid. If their health reaches 0, they die, but if they reach an ally drone they can partially heal them, allowing them to continue on in the game. To win the game, you must defeat the enemies and reach the island where the resistance headquarters are.
-
 
 # Data Design
 
