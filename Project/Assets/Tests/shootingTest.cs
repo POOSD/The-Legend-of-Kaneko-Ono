@@ -1,18 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
+using NUnit.Framework;
 using UnityEngine;
+using UnityEngine.TestTools;
 
 public class shootingTest : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
+   [UnityTest]
+   public IEnumerator shootingTestBasic()
+   {
+        // Generate a player object
+        GameObject thePlayer = new GameObject();
+        GameObject theChildFiringPoint = new GameObject();
+        theChildFiringPoint.transform.parent = thePlayer.transform;
+		theChildFiringPoint.transform.localPosition = Vector3.zero;
+        thePlayer.AddComponent<WeaponPrototype>();
         
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        yield return null;
+   }
 }

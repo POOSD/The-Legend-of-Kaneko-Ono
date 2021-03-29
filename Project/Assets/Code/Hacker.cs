@@ -12,14 +12,12 @@ public class Hacker : MonoBehaviour
         manager = GameObject.Find("GameManager").GetComponent<HackManager>();
     }
     void OnTriggerEnter2D(Collider2D whatWasHit) {
-        Debug.Log("Hello!");
         if (player == whatWasHit.gameObject) {
             Debug.Log("Yep, that's the player!");
             manager.howManyHacking++;
         }
     }
     void OnTriggerExit2D(Collider2D whatWasGone) {
-        Debug.Log("Goodbye!");
         if (player == whatWasGone.gameObject) {
             Debug.Log("Yep, that was the player.");
             manager.howManyHacking--;
