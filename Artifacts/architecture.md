@@ -49,7 +49,7 @@ Our Component Diagram illustrates how the user interface window facilitates the 
 # Code Design
 
 UML Class Diagram:
-![UML Diagram - UML_Class_Diagram_Example (3)](https://drive.google.com/uc?export=view&id=1-Hr5A38_SSsok_6KmXngsYMZQmgVB3bg)
+![UML Diagram - UML_Class_Diagram_Example (3)](https://github.com/POOSD/COP4331C-Group-5/blob/main/Artifacts/diagramAlt1.png)
 
 
 | Class Name  | User Story |
