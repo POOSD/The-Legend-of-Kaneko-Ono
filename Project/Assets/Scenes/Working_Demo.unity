@@ -607,6 +607,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4542301348816786885, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
+      propertyPath: spawnRate
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4542301348816786886, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
       propertyPath: enemy
       value: 
@@ -615,10 +619,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4542301348816786886, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
+      propertyPath: spawnRate
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4542301348816786887, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
       propertyPath: enemy
       value: 
       objectReference: {fileID: 990617679}
+    - target: {fileID: 4542301348816786887, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
+      propertyPath: spawnRate
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbb67c0245045ae6fb82fe2f978fbadd, type: 3}
 --- !u!1001 &5136063613553092613
