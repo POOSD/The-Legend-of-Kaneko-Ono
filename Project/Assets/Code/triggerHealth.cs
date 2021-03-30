@@ -19,13 +19,17 @@ public class triggerHealth : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D player)
+    private void OnTriggerEnter2D(Collider2D collid)
     {
-        playerHealth.isRegenerating = true;
+        if(collid.gameObject == player) {
+            Debug.Log("Found the player in triggerHealth.OnTriggerEnter2D().");
+            playerHealth.isRegenerating = true;
+        }
     }
 
-    private void OnTriggerExit2D(Collider2D player)
+    private void OnTriggerExit2D(Collider2D collid)
     {
-        playerHealth.isRegenerating = false;
+        if(collid.gameObject == player)
+            playerHealth.isRegenerating = false;
     }
 }

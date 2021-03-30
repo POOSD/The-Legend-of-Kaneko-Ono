@@ -730,6 +730,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6386342347285314465, guid: cc8b448eb1085ad4ebd441f88a35e784, type: 3}
+      propertyPath: regen
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6386342347285314465, guid: cc8b448eb1085ad4ebd441f88a35e784, type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 2146036631}
